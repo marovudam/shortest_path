@@ -54,9 +54,10 @@ def print_shortest(lst_paths):
         print(*shortest_path, sep=' -> ')
 
 def find_shortest_way(arguments: dict) -> None:
-    os.environ['WIKI_FILE'] = "C:\\Users\\m\Desktop\\Python_Bootcamp.Team_00-1\\src\\wiki.json"
+    # os.environ['GRAPH_FILE'] = "full filepath"
+    os.environ['GRAPH_FILE'] = "wiki.json"
     try:
-        with open(os.environ['WIKI_FILE'], "r") as f:
+        with open(os.environ['GRAPH_FILE'], "r") as f:
             database = json.load(f)
             lst_paths = []
             if args['from'] in database['vertices'] and args['to'] in database['vertices']:
