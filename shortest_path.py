@@ -16,7 +16,7 @@ def parse_arguments() -> dict :
         help='Ignore the direction of paths', action='store_true')
     return dict(parser.parse_args()._get_kwargs())
 
-def recurs(path, database, is_directed, p_to, lst_paths):
+def recurs(path: str, database: dict, is_directed: bool, p_to: str, lst_paths: list) -> None:
     filtered_connections = list(
         filter(
                 lambda x: (
@@ -41,12 +41,12 @@ def recurs(path, database, is_directed, p_to, lst_paths):
             else:
                 recurs(copy_lst, database, is_directed, p_to, lst_paths)
 
-def find_way(database: dict, p_from: str, p_to: str, is_directed=False, lst_paths = []):
+def find_way(database: dict, p_from: str, p_to: str, is_directed=False, lst_paths = []) -> None:
     path = [p_from]
     recurs(path, database, is_directed, p_to, lst_paths)
     
 
-def print_shortest(lst_paths):
+def print_shortest(lst_paths) -> None:
     shortest_path = list(
         filter(
             lambda x: len(x) == min(map(lambda x: len(x), lst_paths)),
@@ -58,7 +58,7 @@ def print_shortest(lst_paths):
         print(*shortest_path, sep=' -> ')
 
 def find_shortest_way(arguments: dict) -> None:
-    # os.environ['GRAPH_FILE'] = "full filepath"
+    # os.environ['GRAPH_FILE'] = "filepath"
     os.environ['GRAPH_FILE'] = "wiki.json"
     try:
         with open(os.environ['GRAPH_FILE'], "r") as f:
