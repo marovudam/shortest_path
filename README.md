@@ -16,7 +16,7 @@ Script options:
 + `-v`                    Print the full path
 + `--non-directed`        Ignore the direction of paths
 
-By default, script prints the length of the shortes path from node "Programming language" to node "Honey bee", concidering the directions of graph paths.
+By default, script prints the length of the shortes path from node "Programming language" to node "PAQ", concidering the directions of graph paths.
 
 File that stores graph must have format as shown:
 ```
@@ -41,5 +41,7 @@ File that stores graph must have format as shown:
     ]
 }
 ```
+
+The example of such [file is present in repository](graph.json).
 
 **The vertice not included in vertices list but present in edge connection will not be used in search.**

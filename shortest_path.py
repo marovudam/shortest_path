@@ -4,8 +4,8 @@ import json
 
 def parse_arguments() -> dict :
     parser = argparse.ArgumentParser(
-        description="Find shortest way from article_1" + \
-            " to article_2 if they are present in JSON"
+        description="Find shortest way from vertice_1" + \
+            " to vertice_2 if they are present in JSON"
     )
     parser.add_argument('-f', '--from', default="Programming_Language", \
         help='Starting Wikipedia page')

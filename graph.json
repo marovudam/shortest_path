@@ -1,0 +1,6415 @@
+{
+  "vertices": [
+    "Programming Language",
+    "Source code",
+    "Source Code",
+    "Data compression",
+    "Information theory",
+    "Information",
+    "Bit",
+    "Lossy compression",
+    "Lossless compression",
+    "Redundancy (information theory)",
+    "Data file",
+    "Computational resource",
+    "Space%E2%80%93time tradeoff",
+    "Electronic hardware",
+    "Algorithm",
+    "Run-length encoding",
+    "Terry Welch",
+    "Lempel%E2%80%93Ziv%E2%80%93Welch",
+    "PKZIP",
+    "Huffman coding",
+    "Data collection",
+    "Sequitur algorithm",
+    "Re-Pair",
+    "Randomized algorithm",
+    "Prediction by partial matching",
+    "Burrows%E2%80%93Wheeler transform",
+    "Arithmetic coding",
+    "Finite-state machine",
+    "Probability distribution",
+    "JPEG",
+    "H.263",
+    "Random-access memory",
+    "MP3",
+    "WAV",
+    "Image compression",
+    "Trade-off",
+    "Luminance",
+    "Psychoacoustics",
+    "Transform coding",
+    "Discrete cosine transform",
+    "K. R. Rao",
+    "Advanced Audio Coding",
+    "Vorbis",
+    "Digital camera",
+    "DVD",
+    "Blu-ray",
+    "Video coding format",
+    "Audio signal",
+    "Speech coding",
+    "Generation loss",
+    "Shannon%27s source coding theorem",
+    "Algorithmic information theory",
+    "Rate%E2%80%93distortion theory",
+    "Claude Shannon",
+    "Coding theory",
+    "Statistical inference",
+    "Machine learning",
+    "AIXI",
+    "Hutter Prize",
+    "VP9",
+    "OpenCV",
+    "TensorFlow",
+    "MATLAB",
+    "Data differencing",
+    "Entropy (information theory)",
+    "Entropy coding",
+    "Shannon%E2%80%93Fano coding",
+    "Fast Fourier transform",
+    "Hadamard transform",
+    "Joint Photographic Experts Group",
+    "Image file format",
+    "Digital image",
+    "GIF",
+    "Wavelet",
+    "JPEG 2000",
+    "Discrete wavelet transform",
+    "Motion JPEG 2000",
+    "Digital cinema",
+    "Audio coding format",
+    "Audio codec",
+    "Dynamic range compression",
+    "Bandwidth (computing)",
+    "List of codecs#Audio",
+    "Software",
+    "Codec",
+    "Quantization (signal processing)",
+    "Linear prediction",
+    "Compact disc",
+    "High fidelity",
+    "Bit rate",
+    "Curve fitting",
+    "List of codecs#Lossless compression",
+    "Super Audio CD",
+    "Meridian Lossless Packing",
+    "DVD-Audio",
+    "Dolby TrueHD",
+    "HD DVD",
+    "Audio file format",
+    "MPEG-4 SLS",
+    "WavPack",
+    "Spectrogram",
+    "Bandlimiting",
+    "Internet",
+    "Auditory system",
+    "AptX",
+    "LDAC (codec)",
+    "LHDC (codec)",
+    "Master Quality Authenticated#Codec description",
+    "Modified discrete cosine transform",
+    "Time domain",
+    "Frequency domain",
+    "Absolute threshold of hearing",
+    "Equal-loudness contour",
+    "Linear predictive coding",
+    "Latency (engineering)",
+    "A-law algorithm",
+    "%CE%9C-law algorithm",
+    "Sound card",
+    "Bell Labs",
+    "C. Chapin Cutler",
+    "Differential pulse-code modulation",
+    "Nikil Jayant",
+    "James L. Flanagan",
+    "Fumitada Itakura",
+    "Nagoya University",
+    "Nippon Telegraph and Telephone",
+    "Bishnu S. Atal",
+    "Manfred R. Schroeder",
+    "Adaptive predictive coding",
+    "Code-excited linear prediction",
+    "Data compression ratio",
+    "Dolby Digital",
+    "Broadcast automation",
+    "University of Buenos Aires",
+    "Audicom",
+    "Video codec",
+    "Uncompressed video",
+    "Uncompressed video#Storage and Data Rates for Uncompressed Video",
+    "List of codecs#Lossless video compression",
+    "Motion compensation",
+    "Inter frame",
+    "Delta encoding",
+    "Intra-frame coding",
+    "Video coding format#Intra-frame video coding formats",
+    "Quantization (image processing)",
+    "Video quality",
+    "Compression artifact",
+    "Fractal compression",
+    "Matching pursuit",
+    "Residual frame",
+    "Variable bitrate",
+    "Wikipedia:Manual of Style/Dates and numbers#Chronological items",
+    "ITU-T",
+    "International Organization for Standardization",
+    "H.261",
+    "Data deduplication",
+    "Pixel",
+    "Deblocking filter",
+    "Video coding format#History",
+    "Hitachi",
+    "Toshiba",
+    "MPEG-1",
+    "VHS",
+    "MPEG-2",
+    "H.262/MPEG-2 Part 2",
+    "Sony",
+    "Mitsubishi Electric",
+    "Panasonic",
+    "LG Electronics",
+    "Context-adaptive binary arithmetic coding",
+    "Context-adaptive variable-length coding",
+    "YouTube",
+    "Netflix",
+    "Vimeo",
+    "ITunes Store",
+    "Adobe Flash Player",
+    "Microsoft Silverlight",
+    "Compression of genomic sequencing data",
+    "International HapMap Project",
+    "HTTP compression",
+    "Kolmogorov complexity",
+    "Lhasa (computing)",
+    "Minimum description length",
+    "Modulo-N code",
+    "Motion coding",
+    "Range coding",
+    "Set redundancy compression",
+    "Sub-band coding",
+    "Universal code (data compression)",
+    "Vector quantization",
+    "Special:BookSources/978-0-521-42336-6",
+    "Pulse-code modulation",
+    "Special:BookSources/9781848000728",
+    "Special:BookSources/978-81-8489-988-7",
+    "Template:Cite book",
+    "Help:CS1 errors#periodical ignored",
+    "Special:BookSources/1-57955-008-8",
+    "Category:CS1 maint: location missing publisher",
+    "Gary Sullivan (engineer)",
+    "Thomas Wiegand",
+    "Special:BookSources/978-1-57955-008-0",
+    "Digital Signal Processing (journal)",
+    "Carla Brodley",
+    "Special:BookSources/0-7695-2545-8",
+    "BT Group",
+    "BBC News",
+    "BBC",
+    "The Atlantic",
+    "L. Peter Deutsch",
+    "Internet Engineering Task Force",
+    "Request for Comments",
+    "Special:BookSources/9781461560319",
+    "Special:BookSources/9781461507994",
+    "Video Coding Experts Group",
+    "Academic Press",
+    "Special:BookSources/9780080922508",
+    "Taylor %26 Francis",
+    "Special:BookSources/9780240806174",
+    "Special:BookSources/9788190639675",
+    "Special:BookSources/9783642126512",
+    "Special:BookSources/9783319056609",
+    "University of Utah",
+    "Special:BookSources/9780387782638",
+    "CRC Press",
+    "Special:BookSources/9780203904183",
+    "World Scientific",
+    "Special:BookSources/9789812709998",
+    "Proceedings of the IEEE",
+    "Institution of Engineering and Technology",
+    "Special:BookSources/9780852967102",
+    "MPEG LA",
+    "Wayback Machine",
+    "Carnegie Mellon University",
+    "Template:Compression methods",
+    "Template talk:Compression methods",
+    "Adaptive coding",
+    "Asymmetric numeral systems",
+    "Golomb coding",
+    "Adaptive Huffman coding",
+    "Canonical Huffman code",
+    "Modified Huffman coding",
+    "Shannon coding",
+    "Shannon%E2%80%93Fano%E2%80%93Elias coding",
+    "Tunstall coding",
+    "Unary coding",
+    "Exponential-Golomb coding",
+    "Fibonacci coding",
+    "Elias gamma coding",
+    "Levenshtein coding",
+    "Dictionary coder",
+    "Byte pair encoding",
+    "LZ77 and LZ78",
+    "842 (compression algorithm)",
+    "Brotli",
+    "Deflate",
+    "LZ4 (compression algorithm)",
+    "LZFSE",
+    "LZJB",
+    "Lempel%E2%80%93Ziv%E2%80%93Markov chain algorithm",
+    "Lempel%E2%80%93Ziv%E2%80%93Oberhumer",
+    "LZRW",
+    "Lempel%E2%80%93Ziv%E2%80%93Stac",
+    "Lempel%E2%80%93Ziv%E2%80%93Storer%E2%80%93Szymanski",
+    "LZWL",
+    "LZX",
+    "Snappy (compression)",
+    "Zstd",
+    "Context tree weighting",
+    "Incremental encoding",
+    "Dynamic Markov compression",
+    "Move-to-front transform",
+    "PAQ",
+    "Discrete sine transform",
+    "Wavelet transform",
+    "Daubechies wavelet",
+    "Set partitioning in hierarchical trees",
+    "Adaptive differential pulse-code modulation",
+    "Algebraic code-excited linear prediction",
+    "Log area ratio",
+    "Line spectral pairs",
+    "Warped linear predictive coding",
+    "Motion estimation",
+    "Average bitrate",
+    "Constant bitrate",
+    "Companding",
+    "Convolution",
+    "Dynamic range",
+    "Latency (audio)",
+    "Nyquist%E2%80%93Shannon sampling theorem",
+    "Sampling (signal processing)",
+    "Sound quality",
+    "Delta modulation",
+    "Fourier transform",
+    "Chroma subsampling",
+    "Coding tree unit",
+    "Color space",
+    "Image resolution",
+    "Macroblock",
+    "Peak signal-to-noise ratio",
+    "Standard test image",
+    "Chain code",
+    "Pyramid (image processing)",
+    "Embedded Zerotrees of Wavelet transforms",
+    "Display resolution",
+    "Film frame",
+    "Frame rate",
+    "Video compression picture types",
+    "Interlaced video",
+    "Video#Characteristics of video streams",
+    "Lapped transform",
+    "Grammar-based code",
+    "Timeline of information theory",
+    "Prefix code",
+    "Template:Compression formats",
+    "Template:Compression software",
+    "Template talk:Compression formats",
+    "Multimedia",
+    "International Electrotechnical Commission",
+    "Moving Picture Experts Group",
+    "DV",
+    "Motion JPEG",
+    "MPEG-4",
+    "MPEG-4 Part 2",
+    "MPEG-H",
+    "High Efficiency Video Coding",
+    "Versatile Video Coding",
+    "Essential Video Coding",
+    "LCEVC",
+    "H.120",
+    "Advanced Video Coding",
+    "Society of Motion Picture and Television Engineers",
+    "VC-1",
+    "Dirac (video compression format)",
+    "Avid DNxHD",
+    "CineForm",
+    "VC-6",
+    "On2 Technologies",
+    "On2 Technologies#TrueMotion S",
+    "VP3",
+    "VP6",
+    "VP8",
+    "AV1",
+    "Apple Video",
+    "Audio Video Standard",
+    "Bink Video",
+    "Cinepak",
+    "Daala",
+    "Digital Video Interactive",
+    "FFV1",
+    "Huffyuv",
+    "Indeo",
+    "Lagarith",
+    "Microsoft Video 1",
+    "MSU Lossless Video Codec",
+    "OMS Video",
+    "Pixlet",
+    "Apple ProRes",
+    "QuickTime Animation",
+    "QuickTime Graphics",
+    "RealVideo",
+    "RTVideo",
+    "SheerVideo",
+    "Smacker video",
+    "Sorenson Media",
+    "Theora",
+    "Thor (video codec)",
+    "Windows Media Video",
+    "RatDVD",
+    "YULS",
+    "MPEG-1 Audio Layer II",
+    "MPEG Multichannel",
+    "MPEG-1 Audio Layer I",
+    "High-Efficiency Advanced Audio Coding",
+    "AAC-LD",
+    "MPEG Surround",
+    "Audio Lossless Coding",
+    "Super Audio CD#DST",
+    "Harmonic Vector Excitation Coding",
+    "Unified Speech and Audio Coding",
+    "MPEG-H 3D Audio",
+    "G.711",
+    "G.718",
+    "G.719",
+    "G.722",
+    "G.722.1",
+    "Adaptive Multi-Rate Wideband",
+    "G.723",
+    "G.723.1",
+    "G.726",
+    "G.728",
+    "G.729",
+    "G.729.1",
+    "Opus (audio format)",
+    "Internet Low Bitrate Codec",
+    "Speex",
+    "3GPP",
+    "Adaptive Multi-Rate audio codec",
+    "Extended Adaptive Multi-Rate %E2%80%93 Wideband",
+    "Enhanced Variable Rate Codec",
+    "Enhanced Variable Rate Codec B",
+    "Enhanced Voice Services",
+    "Half Rate",
+    "Full Rate",
+    "Enhanced full rate",
+    "ETSI",
+    "Dolby AC-4",
+    "Bluetooth Special Interest Group",
+    "SBC (codec)",
+    "LC3 (codec)",
+    "Asao (codec)",
+    "CELT",
+    "Codec 2",
+    "Dynamic Resolution Adaptation",
+    "FLAC",
+    "Internet Speech Audio Codec",
+    "Mixed-excitation linear prediction",
+    "Monkey%27s Audio",
+    "MT9",
+    "Musepack",
+    "OptimFROG",
+    "Original Sound Quality",
+    "Qualcomm code-excited linear prediction",
+    "Relaxed code-excited linear prediction",
+    "RealAudio",
+    "RTAudio",
+    "Avid Audio#Sound Designer file formats",
+    "SILK",
+    "Siren (codec)",
+    "Selectable Mode Vocoder",
+    "SVOPC",
+    "TTA (codec)",
+    "TwinVQ",
+    "Variable-Rate Multimode Wideband",
+    "Vector sum excited linear prediction",
+    "Windows Media Audio",
+    "Master Quality Authenticated",
+    "AptX#aptX HD",
+    "AptX#aptX Low Latency",
+    "AptX#aptX Adaptive",
+    "LHDC (codec)#LLAC",
+    "World Wide Web Consortium",
+    "Group 4 compression",
+    "High Efficiency Image File Format#HEIC: HEVC in HEIF",
+    "High Efficiency Video Coding#Main Still Picture",
+    "JBIG",
+    "JBIG2",
+    "JPEG XL",
+    "JPEG XR",
+    "JPEG XS",
+    "JPEG XT",
+    "TIFF",
+    "TIFF/EP",
+    "APNG",
+    "AVIF",
+    "Better Portable Graphics",
+    "DjVu",
+    "OpenEXR",
+    "Free Lossless Image Format",
+    "ICER",
+    "Multiple-image Network Graphics",
+    "Progressive Graphics File",
+    "QOI (image format)",
+    "QuickTime VR",
+    "Wireless Application Protocol Bitmap Format",
+    "WebP",
+    "MPEG elementary stream",
+    "Packetized elementary stream",
+    "MPEG program stream",
+    "MPEG transport stream",
+    "MPEG-21",
+    "MPEG media transport",
+    "MPEG-2#Systems",
+    "Real-time Transport Protocol",
+    "Ogg",
+    "General Exchange Format",
+    "Material Exchange Format",
+    "3GP and 3G2",
+    "AMV video format",
+    "Advanced Systems Format",
+    "Audio Interchange File Format",
+    "Audio Video Interleave",
+    "Au file format",
+    "BMP file format",
+    "DivX#DivX Media Format (DMF)",
+    "Enhanced VOB",
+    "Flash Video",
+    "High Efficiency Image File Format",
+    "Interchange File Format",
+    ".m2ts",
+    "Matroska",
+    "WebM",
+    "QuickTime File Format",
+    "RealMedia",
+    "Resource Interchange File Format",
+    "MOD and TOD",
+    "VOB",
+    "NETVC",
+    "Alliance for Open Media",
+    "Comparison of audio coding formats",
+    "Comparison of video codecs",
+    "List of codecs",
+    "Template talk:Compression software",
+    "Comparison of file archivers",
+    "Free software",
+    "7-Zip",
+    "Ark (software)",
+    "Haiku Applications#Expander",
+    "FreeArc",
+    "GNOME Archive Manager",
+    "Info-ZIP",
+    "KGB Archiver",
+    "Pax (command)",
+    "PeaZip",
+    "XAD (software)",
+    "Xarchiver",
+    "Zipeg",
+    "ZPAQ",
+    "Freeware",
+    "Filzip",
+    "LHA (file format)",
+    "StuffIt Expander",
+    "The Unarchiver",
+    "TUGZip",
+    "ZipGenius",
+    "Commercial software",
+    "ARC (file format)",
+    "ALZip",
+    "ARJ",
+    "BetterZip",
+    "MacBinary",
+    "PowerArchiver",
+    "StuffIt",
+    "WinAce",
+    "WinRAR",
+    "WinZip",
+    "Bzip2",
+    "Gzip",
+    "Lzip",
+    "Lzop",
+    "Rzip",
+    "XZ Utils",
+    "Executable compression",
+    "UPX",
+    "Fraunhofer FDK AAC",
+    "Nero AAC Codec",
+    "FAAC",
+    "Helix (multimedia project)",
+    "L3enc",
+    "LAME",
+    "TooLAME",
+    "Libavcodec",
+    "Windows Media Encoder",
+    "3ivx",
+    "DivX",
+    "Nero Digital",
+    "FFmpeg",
+    "HDX4",
+    "Xvid",
+    "CoreAVC",
+    "Blu-code",
+    "OpenH264",
+    "QuickTime",
+    "X264",
+    "X265",
+    "Smart Bitrate Control",
+    "Libvpx",
+    "Template:Data",
+    "Template talk:Data",
+    "Data augmentation",
+    "Data analysis",
+    "Data archaeology",
+    "Big data",
+    "Data cleansing",
+    "Data corruption",
+    "Data curation",
+    "Data degradation",
+    "Data editing",
+    "Extract, transform, load",
+    "Extract, load, transform",
+    "Data extraction",
+    "Data farming",
+    "Data format management",
+    "Data fusion",
+    "Data integration",
+    "Data integrity",
+    "Data lineage",
+    "Data loss",
+    "Data management",
+    "Data migration",
+    "Data mining",
+    "Data philanthropy",
+    "Data preservation",
+    "Data processing",
+    "Information privacy",
+    "Data publishing",
+    "Data recovery",
+    "Data reduction",
+    "Data retention",
+    "Data quality",
+    "Data science",
+    "Data scraping",
+    "Data scrubbing",
+    "Data security",
+    "Data steward",
+    "Data storage",
+    "Data synchronization",
+    "Data validation",
+    "Data warehouse",
+    "Data wrangling",
+    "Help:Authority control",
+    "Duncan Jones",
+    "Duncan Jones (rugby union)",
+    "Bromley",
+    "London",
+    "College of Wooster",
+    "London Film School",
+    "Moon (2009 film)",
+    "David Bowie",
+    "Angie Bowie",
+    "Warcraft (film)",
+    "Mute (2018 film)",
+    "BAFTA Award for Outstanding Debut by a British Writer, Director or Producer",
+    "Bromley Hospital",
+    "United States Army",
+    "Cyprus Mines Corporation",
+    "Canadians",
+    "Cyprus",
+    "Polish people",
+    "Kooks (song)",
+    "Hunky Dory",
+    "Vevey",
+    "International School of Lausanne",
+    "Gordonstoun",
+    "Iman (model)",
+    "Spencer Haywood",
+    "Vanderbilt University",
+    "Professional wrestling",
+    "Tim Pope",
+    "Madison Square Garden",
+    "BowieNet",
+    "Roseland Ballroom",
+    "Republic: The Revolution",
+    "French Connection (clothing)",
+    "Advertising Standards Authority (United Kingdom)",
+    "British Independent Film Awards 2009",
+    "British Academy Film Awards",
+    "Carl Foreman",
+    "Summit Entertainment",
+    "Warcraft",
+    "Alexander Skarsg%C3%A5rd",
+    "Paul Rudd",
+    "Ridley Scott",
+    "Blade Runner",
+    "Berlin",
+    "Science fiction film",
+    "2000 AD (comics)",
+    "Rogue Trooper",
+    "Entertainment Weekly",
+    "Breast cancer",
+    "Film director",
+    "Screenwriter",
+    "Charles Leavitt",
+    "Graphic novel",
+    "British Independent Film Awards",
+    "Espoo Cin%C3%A9 International Film Festival",
+    "Festival international du film fantastique de G%C3%A9rardmer",
+    "Hugo Award for Best Dramatic Presentation",
+    "London Film Critics Circle Awards 2009",
+    "National Board of Review Awards 2009",
+    "Writers%27 Guild of Great Britain",
+    "Chicago Film Critics Association Awards 2009",
+    "Evening Standard British Film Awards",
+    "Ray Bradbury Award",
+    "Special:BookSources/0-7535-1002-2",
+    "Twitter",
+    "The New York Times",
+    "Geni.com",
+    "The A.V. Club",
+    "The Guardian",
+    "Deadline Hollywood",
+    "Template:Duncan Jones",
+    "Template talk:Duncan Jones",
+    "Template:National Board of Review Award for Best Directorial Debut",
+    "Template talk:National Board of Review Award for Best Directorial Debut",
+    "National Board of Review Award for Best Directorial Debut",
+    "Kasi Lemmons",
+    "Kimberly Peirce",
+    "John Cameron Mitchell",
+    "Rob Marshall",
+    "Vadim Perelman",
+    "Zach Braff",
+    "Julian Fellowes",
+    "Jason Reitman",
+    "Ben Affleck",
+    "Courtney Hunt",
+    "Oren Moverman",
+    "Marc Webb",
+    "Tim Hetherington",
+    "Sebastian Junger",
+    "J. C. Chandor",
+    "Benh Zeitlin",
+    "Ryan Coogler",
+    "Gillian Robespierre",
+    "Jonas Carpignano",
+    "Trey Edward Shults",
+    "Jordan Peele",
+    "Bo Burnham",
+    "Melina Matsoukas",
+    "Channing Godfrey Peoples",
+    "Michael Sarnoski",
+    "Charlotte Wells",
+    "Template:David Bowie",
+    "Template talk:David Bowie",
+    "David Bowie discography",
+    "List of songs recorded by David Bowie",
+    "List of awards and nominations received by David Bowie",
+    "David Bowie filmography",
+    "David Bowie videography",
+    "List of David Bowie band members",
+    "David Bowie (1967 album)",
+    "David Bowie (1969 album)",
+    "The Man Who Sold the World (album)",
+    "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+    "Aladdin Sane",
+    "Pin Ups",
+    "Diamond Dogs",
+    "Young Americans",
+    "Station to Station",
+    "Low (David Bowie album)",
+    "%22Heroes%22 (David Bowie album)",
+    "Lodger (album)",
+    "Scary Monsters (and Super Creeps)",
+    "Let%27s Dance (David Bowie album)",
+    "Tonight (David Bowie album)",
+    "Never Let Me Down",
+    "Black Tie White Noise",
+    "The Buddha of Suburbia (album)",
+    "Outside (David Bowie album)",
+    "Earthling (album)",
+    "Hours (David Bowie album)",
+    "Heathen (David Bowie album)",
+    "Reality (David Bowie album)",
+    "The Next Day",
+    "Blackstar (album)",
+    "Toy (David Bowie album)",
+    "Tin Machine",
+    "Tin Machine (album)",
+    "Tin Machine II",
+    "David Live",
+    "Stage (David Bowie album)",
+    "Ziggy Stardust: The Motion Picture",
+    "Santa Monica %2772",
+    "LiveAndWell.com",
+    "Glass Spider#Special edition CD 2007",
+    "Live Santa Monica %2772",
+    "VH1 Storytellers (David Bowie album)",
+    "Bowie at the Beeb",
+    "A Reality Tour (album)",
+    "Live Nassau Coliseum %2776",
+    "Cracked Actor (Live Los Angeles %2774)",
+    "Welcome to the Blackout (Live London %2778)",
+    "Serious Moonlight (1983 film)",
+    "Glastonbury 2000",
+    "ChangesNowBowie",
+    "Outside Tour#Live recordings",
+    "Hours Tour",
+    "I%27m Only Dancing (The Soul Tour 74)",
+    "Outside Tour#Birmingham, England (No Trendy R\u00e9chauff\u00e9 (Live Birmingham 95))",
+    "Earthling Tour#Look at the Moon! (Live Phoenix Festival 97)",
+    "Hours Tour#David Bowie at the Kit Kat Klub (Live New York 99)",
+    "Tin Machine Live: Oy Vey, Baby",
+    "Tin Machine Tour#Live recordings",
+    "Christiane F. (soundtrack)",
+    "Love You till Tuesday (soundtrack)",
+    "Labyrinth (1986 soundtrack)",
+    "Lazarus (soundtrack)",
+    "Moonage Daydream (soundtrack)",
+    "Baal (EP)",
+    "BBC Sessions 1969%E2%80%931972 (Sampler)",
+    "Earthling in the City",
+    "Space Oddity",
+    "The Next Day#The Next Day Extra",
+    "No Plan (EP)",
+    "Is It Any Wonder%3F (EP)",
+    "The World of David Bowie",
+    "Images 1966%E2%80%931967",
+    "Changesonebowie",
+    "The Best of Bowie",
+    "Changestwobowie",
+    "Rare (David Bowie album)",
+    "Golden Years (album)",
+    "Fame and Fashion",
+    "Changesbowie",
+    "Early On (1964%E2%80%931966)",
+    "The Singles Collection (David Bowie album)",
+    "Rarestonebowie",
+    "The Deram Anthology 1966%E2%80%931968",
+    "The Best of David Bowie 1969/1974",
+    "The Best of David Bowie 1974/1979",
+    "All Saints (David Bowie album)",
+    "Best of Bowie",
+    "Club Bowie",
+    "The Collection (David Bowie album)",
+    "The Best of David Bowie 1980/1987",
+    "ISelect",
+    "Nothing Has Changed",
+    "Legacy (The Very Best of David Bowie)",
+    "Sound %2B Vision (box set)",
+    "The Platinum Collection (David Bowie album)",
+    "David Bowie (box set)",
+    "Five Years (1969%E2%80%931973)",
+    "Who Can I Be Now%3F (1974%E2%80%931976)",
+    "A New Career in a New Town (1977%E2%80%931982)",
+    "Loving the Alien (1983%E2%80%931988)",
+    "Spying Through a Keyhole",
+    "Clareville Grove Demos",
+    "The %27Mercury%27 Demos",
+    "Conversation Piece (box set)",
+    "Brilliant Live Adventures",
+    "Brilliant Adventure (1992%E2%80%932001)",
+    "The 1980 Floor Show",
+    "Ziggy Stardust and the Spiders from Mars (film)",
+    "Glass Spider",
+    "Reality (David Bowie album)#Release",
+    "A Reality Tour (film)",
+    "Love You till Tuesday (film)",
+    "Jazzin%27 for Blue Jean",
+    "Day-In Day-Out",
+    "Tin Machine (album)#Music video",
+    "Bowie %E2%80%93 The Video Collection",
+    "David Bowie: Black Tie White Noise (film)",
+    "Best of Bowie#DVD track listing",
+    "Cracked Actor",
+    "Ricochet (documentary)",
+    "David Bowie: Sound and Vision (documentary)",
+    "Moonage Daydream (film)",
+    "Ziggy Stardust Tour",
+    "Diamond Dogs Tour",
+    "Isolar %E2%80%93 1976 Tour",
+    "Isolar II %E2%80%93 The 1978 World Tour",
+    "Serious Moonlight Tour",
+    "Glass Spider Tour",
+    "Sound%2BVision Tour",
+    "Outside Tour",
+    "Earthling Tour",
+    "Mini Tour (David Bowie)",
+    "Heathen Tour",
+    "A Reality Tour",
+    "Tin Machine Tour",
+    "It%27s My Life Tour",
+    "The Hype (band)",
+    "Junior%27s Eyes",
+    "David Bowie BBC Sessions",
+    "Berlin Trilogy",
+    "Major Tom",
+    "Arnold Corns",
+    "Ziggy Stardust (character)",
+    "The Spiders from Mars",
+    "Ava Cherry",
+    "The Thin White Duke",
+    "Jareth",
+    "Phillip Jeffries",
+    "The Nomad Soul",
+    "Symphony No. 1 (Glass)",
+    "Symphony No. 4 (Glass)",
+    "Symphony No. 12 (Glass)",
+    "Bowie (Flight of the Conchords)",
+    "David Bowie Narrates Prokofiev%27s Peter and the Wolf",
+    "We Were So Turned On: A Tribute to David Bowie",
+    "The Life Aquatic Studio Sessions",
+    "Heteropoda davidbowie",
+    "342843 Davidbowie",
+    "Lazarus (musical)",
+    "Stardust (2020 film)",
+    "Death of David Bowie",
+    "David Bowie%27s art collection",
+    "David Bowie Is",
+    "Statue of David Bowie",
+    "Earthling Tour#Tao Jones Index",
+    "Category:David Bowie",
+    "Ben Ripley",
+    "Lawrenceville, New Jersey",
+    "Stanford University",
+    "University of Southern California",
+    "Spec script",
+    "Writers Guild of America",
+    "Species III",
+    "Species %E2%80%93 The Awakening",
+    "The Watch (2008 film)",
+    "Boychoir (film)",
+    "Flatliners (2017 film)",
+    "Wikipedia:Link rot",
+    "Wikipedia:Stub",
+    "Template:US-screen-writer-stub",
+    "Template talk:US-screen-writer-stub",
+    "Special:EditPage/Template:US-screen-writer-stub",
+    "Philippe Rousselet",
+    "Philippe Rousselot",
+    "Neuilly-sur-Seine",
+    "France",
+    "Andr%C3%A9 Rousselet",
+    "Film producer",
+    "Academy Award for Best Picture",
+    "CODA (2021 film)",
+    "La Famille B%C3%A9lier",
+    "Marie from the Bay of Angels",
+    "Serial Lover",
+    "Lord of War",
+    "The Key (2007 film)",
+    "The Women on the 6th Floor",
+    "Larry Crowne",
+    "Paris Manhattan",
+    "Haute Cuisine (film)",
+    "Dad in Training",
+    "Bastille Day (2016 film)",
+    "Radin!",
+    "Two Is a Family",
+    "What Happened to Monday",
+    "Small Country: An African Childhood",
+    "Rotten Tomatoes",
+    "Screen International",
+    "Academy of Motion Picture Arts and Sciences",
+    "The Hollywood Reporter",
+    "AllMovie",
+    "Template:Academy Award Best Picture Producers",
+    "Template talk:Academy Award Best Picture Producers",
+    "Special:EditPage/Template:Academy Award Best Picture Producers",
+    "Wings (1927 film)",
+    "Famous Players%E2%80%93Lasky",
+    "The Broadway Melody",
+    "Metro-Goldwyn-Mayer",
+    "All Quiet on the Western Front (1930 film)",
+    "Universal Pictures",
+    "Cimarron (1931 film)",
+    "RKO Pictures",
+    "Grand Hotel (1932 film)",
+    "Cavalcade (1933 film)",
+    "Fox Film",
+    "It Happened One Night",
+    "Columbia Pictures",
+    "Mutiny on the Bounty (1935 film)",
+    "The Great Ziegfeld",
+    "The Life of Emile Zola",
+    "Warner Bros.",
+    "You Can%27t Take It with You (film)",
+    "Gone with the Wind (film)",
+    "Selznick International Pictures",
+    "Rebecca (1940 film)",
+    "How Green Was My Valley (film)",
+    "20th Century Studios",
+    "Mrs. Miniver",
+    "Casablanca (film)",
+    "Going My Way",
+    "Paramount Pictures",
+    "The Best Years of Our Lives",
+    "Samuel Goldwyn Productions",
+    "Gentleman%27s Agreement",
+    "Hamlet (1948 film)",
+    "The Rank Organisation",
+    "All the King%27s Men (1949 film)",
+    "All About Eve",
+    "An American in Paris (film)",
+    "Arthur Freed",
+    "The Greatest Show on Earth (film)",
+    "Cecil B. DeMille",
+    "From Here to Eternity",
+    "Buddy Adler",
+    "On the Waterfront",
+    "Sam Spiegel",
+    "Marty (film)",
+    "Harold Hecht",
+    "Around the World in 80 Days (1956 film)",
+    "Mike Todd",
+    "The Bridge on the River Kwai",
+    "Gigi (1958 film)",
+    "Ben-Hur (1959 film)",
+    "Sam Zimbalist",
+    "The Apartment",
+    "Billy Wilder",
+    "West Side Story (1961 film)",
+    "Robert Wise",
+    "Lawrence of Arabia (film)",
+    "Tom Jones (1963 film)",
+    "Tony Richardson",
+    "My Fair Lady (film)",
+    "Jack L. Warner",
+    "The Sound of Music (film)",
+    "A Man for All Seasons (1966 film)",
+    "Fred Zinnemann",
+    "In the Heat of the Night (film)",
+    "Walter Mirisch",
+    "Oliver! (film)",
+    "John and James Woolf",
+    "Midnight Cowboy",
+    "Jerome Hellman",
+    "Patton (film)",
+    "Frank McCarthy (producer)",
+    "The French Connection (film)",
+    "Philip D%27Antoni",
+    "The Godfather",
+    "Albert S. Ruddy"
+  ],
+  "edges": [
+    [
+      "Programming Language",
+      "Source code"
+    ],
+    [
+      "Source code",
+      "Source Code"
+    ],
+    [
+      "Source Code",
+      "Source code"
+    ],
+    [
+      "Source Code",
+      "Data compression"
+    ],
+    [
+      "Data compression",
+      "Source code"
+    ],
+    [
+      "Data compression",
+      "Information theory"
+    ],
+    [
+      "Data compression",
+      "Information"
+    ],
+    [
+      "Data compression",
+      "Bit"
+    ],
+    [
+      "Data compression",
+      "Lossy compression"
+    ],
+    [
+      "Data compression",
+      "Lossless compression"
+    ],
+    [
+      "Data compression",
+      "Redundancy (information theory)"
+    ],
+    [
+      "Data compression",
+      "Data file"
+    ],
+    [
+      "Data compression",
+      "Computational resource"
+    ],
+    [
+      "Data compression",
+      "Space%E2%80%93time tradeoff"
+    ],
+    [
+      "Data compression",
+      "Electronic hardware"
+    ],
+    [
+      "Data compression",
+      "Lossless compression"
+    ],
+    [
+      "Data compression",
+      "Algorithm"
+    ],
+    [
+      "Data compression",
+      "Redundancy (information theory)"
+    ],
+    [
+      "Data compression",
+      "Run-length encoding"
+    ],
+    [
+      "Data compression",
+      "Terry Welch"
+    ],
+    [
+      "Data compression",
+      "Lempel%E2%80%93Ziv%E2%80%93Welch"
+    ],
+    [
+      "Data compression",
+      "PKZIP"
+    ],
+    [
+      "Data compression",
+      "Huffman coding"
+    ],
+    [
+      "Data compression",
+      "Data collection"
+    ],
+    [
+      "Data compression",
+      "Sequitur algorithm"
+    ],
+    [
+      "Data compression",
+      "Re-Pair"
+    ],
+    [
+      "Data compression",
+      "Randomized algorithm"
+    ],
+    [
+      "Data compression",
+      "Prediction by partial matching"
+    ],
+    [
+      "Data compression",
+      "Burrows%E2%80%93Wheeler transform"
+    ],
+    [
+      "Data compression",
+      "Arithmetic coding"
+    ],
+    [
+      "Data compression",
+      "Finite-state machine"
+    ],
+    [
+      "Data compression",
+      "Probability distribution"
+    ],
+    [
+      "Data compression",
+      "JPEG"
+    ],
+    [
+      "Data compression",
+      "H.263"
+    ],
+    [
+      "Data compression",
+      "Random-access memory"
+    ],
+    [
+      "Data compression",
+      "Lossy compression"
+    ],
+    [
+      "Data compression",
+      "MP3"
+    ],
+    [
+      "Data compression",
+      "WAV"
+    ],
+    [
+      "Data compression",
+      "Image compression"
+    ],
+    [
+      "Data compression",
+      "Trade-off"
+    ],
+    [
+      "Data compression",
+      "Luminance"
+    ],
+    [
+      "Data compression",
+      "Psychoacoustics"
+    ],
+    [
+      "Data compression",
+      "Transform coding"
+    ],
+    [
+      "Data compression",
+      "Discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "K. R. Rao"
+    ],
+    [
+      "Data compression",
+      "MP3"
+    ],
+    [
+      "Data compression",
+      "Advanced Audio Coding"
+    ],
+    [
+      "Data compression",
+      "Vorbis"
+    ],
+    [
+      "Data compression",
+      "Digital camera"
+    ],
+    [
+      "Data compression",
+      "DVD"
+    ],
+    [
+      "Data compression",
+      "Blu-ray"
+    ],
+    [
+      "Data compression",
+      "Video coding format"
+    ],
+    [
+      "Data compression",
+      "Audio signal"
+    ],
+    [
+      "Data compression",
+      "Speech coding"
+    ],
+    [
+      "Data compression",
+      "Generation loss"
+    ],
+    [
+      "Data compression",
+      "Information theory"
+    ],
+    [
+      "Data compression",
+      "Shannon%27s source coding theorem"
+    ],
+    [
+      "Data compression",
+      "Algorithmic information theory"
+    ],
+    [
+      "Data compression",
+      "Rate%E2%80%93distortion theory"
+    ],
+    [
+      "Data compression",
+      "Claude Shannon"
+    ],
+    [
+      "Data compression",
+      "Coding theory"
+    ],
+    [
+      "Data compression",
+      "Statistical inference"
+    ],
+    [
+      "Data compression",
+      "Machine learning"
+    ],
+    [
+      "Data compression",
+      "Arithmetic coding"
+    ],
+    [
+      "Data compression",
+      "AIXI"
+    ],
+    [
+      "Data compression",
+      "Hutter Prize"
+    ],
+    [
+      "Data compression",
+      "VP9"
+    ],
+    [
+      "Data compression",
+      "OpenCV"
+    ],
+    [
+      "Data compression",
+      "TensorFlow"
+    ],
+    [
+      "Data compression",
+      "MATLAB"
+    ],
+    [
+      "Data compression",
+      "Data differencing"
+    ],
+    [
+      "Data compression",
+      "Data differencing"
+    ],
+    [
+      "Data compression",
+      "Entropy (information theory)"
+    ],
+    [
+      "Data compression",
+      "Image compression"
+    ],
+    [
+      "Data compression",
+      "Entropy coding"
+    ],
+    [
+      "Data compression",
+      "Shannon%E2%80%93Fano coding"
+    ],
+    [
+      "Data compression",
+      "Huffman coding"
+    ],
+    [
+      "Data compression",
+      "Transform coding"
+    ],
+    [
+      "Data compression",
+      "Fast Fourier transform"
+    ],
+    [
+      "Data compression",
+      "Hadamard transform"
+    ],
+    [
+      "Data compression",
+      "Discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "Lossy compression"
+    ],
+    [
+      "Data compression",
+      "Joint Photographic Experts Group"
+    ],
+    [
+      "Data compression",
+      "Image file format"
+    ],
+    [
+      "Data compression",
+      "Digital image"
+    ],
+    [
+      "Data compression",
+      "Lempel%E2%80%93Ziv%E2%80%93Welch"
+    ],
+    [
+      "Data compression",
+      "Lossless compression"
+    ],
+    [
+      "Data compression",
+      "GIF"
+    ],
+    [
+      "Data compression",
+      "Wavelet"
+    ],
+    [
+      "Data compression",
+      "JPEG 2000"
+    ],
+    [
+      "Data compression",
+      "Discrete wavelet transform"
+    ],
+    [
+      "Data compression",
+      "Motion JPEG 2000"
+    ],
+    [
+      "Data compression",
+      "Digital cinema"
+    ],
+    [
+      "Data compression",
+      "Audio coding format"
+    ],
+    [
+      "Data compression",
+      "Audio codec"
+    ],
+    [
+      "Data compression",
+      "Dynamic range compression"
+    ],
+    [
+      "Data compression",
+      "Bandwidth (computing)"
+    ],
+    [
+      "Data compression",
+      "List of codecs#Audio"
+    ],
+    [
+      "Data compression",
+      "Software"
+    ],
+    [
+      "Data compression",
+      "Codec"
+    ],
+    [
+      "Data compression",
+      "Redundancy (information theory)"
+    ],
+    [
+      "Data compression",
+      "Coding theory"
+    ],
+    [
+      "Data compression",
+      "Quantization (signal processing)"
+    ],
+    [
+      "Data compression",
+      "Linear prediction"
+    ],
+    [
+      "Data compression",
+      "Vorbis"
+    ],
+    [
+      "Data compression",
+      "MP3"
+    ],
+    [
+      "Data compression",
+      "Psychoacoustics"
+    ],
+    [
+      "Data compression",
+      "Compact disc"
+    ],
+    [
+      "Data compression",
+      "High fidelity"
+    ],
+    [
+      "Data compression",
+      "MP3"
+    ],
+    [
+      "Data compression",
+      "Bit rate"
+    ],
+    [
+      "Data compression",
+      "Curve fitting"
+    ],
+    [
+      "Data compression",
+      "List of codecs#Lossless compression"
+    ],
+    [
+      "Data compression",
+      "Super Audio CD"
+    ],
+    [
+      "Data compression",
+      "Meridian Lossless Packing"
+    ],
+    [
+      "Data compression",
+      "DVD-Audio"
+    ],
+    [
+      "Data compression",
+      "Dolby TrueHD"
+    ],
+    [
+      "Data compression",
+      "Blu-ray"
+    ],
+    [
+      "Data compression",
+      "HD DVD"
+    ],
+    [
+      "Data compression",
+      "Audio file format"
+    ],
+    [
+      "Data compression",
+      "MPEG-4 SLS"
+    ],
+    [
+      "Data compression",
+      "WavPack"
+    ],
+    [
+      "Data compression",
+      "Spectrogram"
+    ],
+    [
+      "Data compression",
+      "Bandlimiting"
+    ],
+    [
+      "Data compression",
+      "Internet"
+    ],
+    [
+      "Data compression",
+      "Auditory system"
+    ],
+    [
+      "Data compression",
+      "MP3"
+    ],
+    [
+      "Data compression",
+      "AptX"
+    ],
+    [
+      "Data compression",
+      "LDAC (codec)"
+    ],
+    [
+      "Data compression",
+      "LHDC (codec)"
+    ],
+    [
+      "Data compression",
+      "Master Quality Authenticated#Codec description"
+    ],
+    [
+      "Data compression",
+      "Modified discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "Time domain"
+    ],
+    [
+      "Data compression",
+      "Frequency domain"
+    ],
+    [
+      "Data compression",
+      "Absolute threshold of hearing"
+    ],
+    [
+      "Data compression",
+      "Equal-loudness contour"
+    ],
+    [
+      "Data compression",
+      "Linear predictive coding"
+    ],
+    [
+      "Data compression",
+      "Latency (engineering)"
+    ],
+    [
+      "Data compression",
+      "A-law algorithm"
+    ],
+    [
+      "Data compression",
+      "%CE%9C-law algorithm"
+    ],
+    [
+      "Data compression",
+      "Sound card"
+    ],
+    [
+      "Data compression",
+      "Bell Labs"
+    ],
+    [
+      "Data compression",
+      "C. Chapin Cutler"
+    ],
+    [
+      "Data compression",
+      "Differential pulse-code modulation"
+    ],
+    [
+      "Data compression",
+      "Nikil Jayant"
+    ],
+    [
+      "Data compression",
+      "James L. Flanagan"
+    ],
+    [
+      "Data compression",
+      "Speech coding"
+    ],
+    [
+      "Data compression",
+      "Linear predictive coding"
+    ],
+    [
+      "Data compression",
+      "Fumitada Itakura"
+    ],
+    [
+      "Data compression",
+      "Nagoya University"
+    ],
+    [
+      "Data compression",
+      "Nippon Telegraph and Telephone"
+    ],
+    [
+      "Data compression",
+      "Bishnu S. Atal"
+    ],
+    [
+      "Data compression",
+      "Manfred R. Schroeder"
+    ],
+    [
+      "Data compression",
+      "Bell Labs"
+    ],
+    [
+      "Data compression",
+      "Adaptive predictive coding"
+    ],
+    [
+      "Data compression",
+      "Code-excited linear prediction"
+    ],
+    [
+      "Data compression",
+      "Data compression ratio"
+    ],
+    [
+      "Data compression",
+      "MP3"
+    ],
+    [
+      "Data compression",
+      "Discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "K. R. Rao"
+    ],
+    [
+      "Data compression",
+      "Modified discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "Dolby Digital"
+    ],
+    [
+      "Data compression",
+      "Broadcast automation"
+    ],
+    [
+      "Data compression",
+      "University of Buenos Aires"
+    ],
+    [
+      "Data compression",
+      "Audicom"
+    ],
+    [
+      "Data compression",
+      "Video coding format"
+    ],
+    [
+      "Data compression",
+      "Video codec"
+    ],
+    [
+      "Data compression",
+      "Uncompressed video"
+    ],
+    [
+      "Data compression",
+      "Uncompressed video#Storage and Data Rates for Uncompressed Video"
+    ],
+    [
+      "Data compression",
+      "List of codecs#Lossless video compression"
+    ],
+    [
+      "Data compression",
+      "Motion compensation"
+    ],
+    [
+      "Data compression",
+      "Redundancy (information theory)"
+    ],
+    [
+      "Data compression",
+      "Video codec"
+    ],
+    [
+      "Data compression",
+      "Motion compensation"
+    ],
+    [
+      "Data compression",
+      "Inter frame"
+    ],
+    [
+      "Data compression",
+      "Delta encoding"
+    ],
+    [
+      "Data compression",
+      "Intra-frame coding"
+    ],
+    [
+      "Data compression",
+      "Video coding format#Intra-frame video coding formats"
+    ],
+    [
+      "Data compression",
+      "Lossy compression"
+    ],
+    [
+      "Data compression",
+      "Quantization (image processing)"
+    ],
+    [
+      "Data compression",
+      "Trade-off"
+    ],
+    [
+      "Data compression",
+      "Video quality"
+    ],
+    [
+      "Data compression",
+      "Bit rate"
+    ],
+    [
+      "Data compression",
+      "Compression artifact"
+    ],
+    [
+      "Data compression",
+      "Fractal compression"
+    ],
+    [
+      "Data compression",
+      "Matching pursuit"
+    ],
+    [
+      "Data compression",
+      "Discrete wavelet transform"
+    ],
+    [
+      "Data compression",
+      "Inter frame"
+    ],
+    [
+      "Data compression",
+      "Motion compensation"
+    ],
+    [
+      "Data compression",
+      "Video codec"
+    ],
+    [
+      "Data compression",
+      "Residual frame"
+    ],
+    [
+      "Data compression",
+      "Variable bitrate"
+    ],
+    [
+      "Data compression",
+      "Wikipedia:Manual of Style/Dates and numbers#Chronological items"
+    ],
+    [
+      "Data compression",
+      "ITU-T"
+    ],
+    [
+      "Data compression",
+      "International Organization for Standardization"
+    ],
+    [
+      "Data compression",
+      "H.261"
+    ],
+    [
+      "Data compression",
+      "Data deduplication"
+    ],
+    [
+      "Data compression",
+      "Pixel"
+    ],
+    [
+      "Data compression",
+      "Deblocking filter"
+    ],
+    [
+      "Data compression",
+      "Video coding format#History"
+    ],
+    [
+      "Data compression",
+      "Run-length encoding"
+    ],
+    [
+      "Data compression",
+      "K. R. Rao"
+    ],
+    [
+      "Data compression",
+      "H.261"
+    ],
+    [
+      "Data compression",
+      "Video coding format"
+    ],
+    [
+      "Data compression",
+      "Hitachi"
+    ],
+    [
+      "Data compression",
+      "Nippon Telegraph and Telephone"
+    ],
+    [
+      "Data compression",
+      "Toshiba"
+    ],
+    [
+      "Data compression",
+      "MPEG-1"
+    ],
+    [
+      "Data compression",
+      "VHS"
+    ],
+    [
+      "Data compression",
+      "MPEG-2"
+    ],
+    [
+      "Data compression",
+      "H.262/MPEG-2 Part 2"
+    ],
+    [
+      "Data compression",
+      "Sony"
+    ],
+    [
+      "Data compression",
+      "Mitsubishi Electric"
+    ],
+    [
+      "Data compression",
+      "DVD"
+    ],
+    [
+      "Data compression",
+      "H.263"
+    ],
+    [
+      "Data compression",
+      "Hitachi"
+    ],
+    [
+      "Data compression",
+      "Panasonic"
+    ],
+    [
+      "Data compression",
+      "LG Electronics"
+    ],
+    [
+      "Data compression",
+      "Context-adaptive binary arithmetic coding"
+    ],
+    [
+      "Data compression",
+      "Context-adaptive variable-length coding"
+    ],
+    [
+      "Data compression",
+      "YouTube"
+    ],
+    [
+      "Data compression",
+      "Netflix"
+    ],
+    [
+      "Data compression",
+      "Vimeo"
+    ],
+    [
+      "Data compression",
+      "ITunes Store"
+    ],
+    [
+      "Data compression",
+      "Adobe Flash Player"
+    ],
+    [
+      "Data compression",
+      "Microsoft Silverlight"
+    ],
+    [
+      "Data compression",
+      "Compression of genomic sequencing data"
+    ],
+    [
+      "Data compression",
+      "International HapMap Project"
+    ],
+    [
+      "Data compression",
+      "HTTP compression"
+    ],
+    [
+      "Data compression",
+      "Kolmogorov complexity"
+    ],
+    [
+      "Data compression",
+      "Lhasa (computing)"
+    ],
+    [
+      "Data compression",
+      "Minimum description length"
+    ],
+    [
+      "Data compression",
+      "Modulo-N code"
+    ],
+    [
+      "Data compression",
+      "Motion coding"
+    ],
+    [
+      "Data compression",
+      "Range coding"
+    ],
+    [
+      "Data compression",
+      "Set redundancy compression"
+    ],
+    [
+      "Data compression",
+      "Sub-band coding"
+    ],
+    [
+      "Data compression",
+      "Universal code (data compression)"
+    ],
+    [
+      "Data compression",
+      "Vector quantization"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/978-0-521-42336-6"
+    ],
+    [
+      "Data compression",
+      "Pulse-code modulation"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/9781848000728"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/978-81-8489-988-7"
+    ],
+    [
+      "Data compression",
+      "Template:Cite book"
+    ],
+    [
+      "Data compression",
+      "Help:CS1 errors#periodical ignored"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/1-57955-008-8"
+    ],
+    [
+      "Data compression",
+      "Template:Cite book"
+    ],
+    [
+      "Data compression",
+      "Category:CS1 maint: location missing publisher"
+    ],
+    [
+      "Data compression",
+      "Gary Sullivan (engineer)"
+    ],
+    [
+      "Data compression",
+      "Thomas Wiegand"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/978-1-57955-008-0"
+    ],
+    [
+      "Data compression",
+      "Digital Signal Processing (journal)"
+    ],
+    [
+      "Data compression",
+      "Carla Brodley"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/0-7695-2545-8"
+    ],
+    [
+      "Data compression",
+      "BT Group"
+    ],
+    [
+      "Data compression",
+      "BBC News"
+    ],
+    [
+      "Data compression",
+      "BBC"
+    ],
+    [
+      "Data compression",
+      "The Atlantic"
+    ],
+    [
+      "Data compression",
+      "L. Peter Deutsch"
+    ],
+    [
+      "Data compression",
+      "Internet Engineering Task Force"
+    ],
+    [
+      "Data compression",
+      "Request for Comments"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/9781461560319"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/9781461507994"
+    ],
+    [
+      "Data compression",
+      "ITU-T"
+    ],
+    [
+      "Data compression",
+      "Video Coding Experts Group"
+    ],
+    [
+      "Data compression",
+      "Academic Press"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/9780080922508"
+    ],
+    [
+      "Data compression",
+      "Taylor %26 Francis"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/9780240806174"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/9788190639675"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/9783642126512"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/9783319056609"
+    ],
+    [
+      "Data compression",
+      "University of Utah"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/9780387782638"
+    ],
+    [
+      "Data compression",
+      "CRC Press"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/9780203904183"
+    ],
+    [
+      "Data compression",
+      "World Scientific"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/9789812709998"
+    ],
+    [
+      "Data compression",
+      "Proceedings of the IEEE"
+    ],
+    [
+      "Data compression",
+      "Institution of Engineering and Technology"
+    ],
+    [
+      "Data compression",
+      "Special:BookSources/9780852967102"
+    ],
+    [
+      "Data compression",
+      "MPEG LA"
+    ],
+    [
+      "Data compression",
+      "MPEG LA"
+    ],
+    [
+      "Data compression",
+      "Wayback Machine"
+    ],
+    [
+      "Data compression",
+      "Wayback Machine"
+    ],
+    [
+      "Data compression",
+      "Wayback Machine"
+    ],
+    [
+      "Data compression",
+      "Carnegie Mellon University"
+    ],
+    [
+      "Data compression",
+      "Wayback Machine"
+    ],
+    [
+      "Data compression",
+      "Wayback Machine"
+    ],
+    [
+      "Data compression",
+      "Template:Compression methods"
+    ],
+    [
+      "Data compression",
+      "Template talk:Compression methods"
+    ],
+    [
+      "Data compression",
+      "Lossless compression"
+    ],
+    [
+      "Data compression",
+      "Entropy coding"
+    ],
+    [
+      "Data compression",
+      "Adaptive coding"
+    ],
+    [
+      "Data compression",
+      "Arithmetic coding"
+    ],
+    [
+      "Data compression",
+      "Asymmetric numeral systems"
+    ],
+    [
+      "Data compression",
+      "Golomb coding"
+    ],
+    [
+      "Data compression",
+      "Huffman coding"
+    ],
+    [
+      "Data compression",
+      "Adaptive Huffman coding"
+    ],
+    [
+      "Data compression",
+      "Canonical Huffman code"
+    ],
+    [
+      "Data compression",
+      "Modified Huffman coding"
+    ],
+    [
+      "Data compression",
+      "Range coding"
+    ],
+    [
+      "Data compression",
+      "Shannon coding"
+    ],
+    [
+      "Data compression",
+      "Shannon%E2%80%93Fano coding"
+    ],
+    [
+      "Data compression",
+      "Shannon%E2%80%93Fano%E2%80%93Elias coding"
+    ],
+    [
+      "Data compression",
+      "Tunstall coding"
+    ],
+    [
+      "Data compression",
+      "Unary coding"
+    ],
+    [
+      "Data compression",
+      "Universal code (data compression)"
+    ],
+    [
+      "Data compression",
+      "Exponential-Golomb coding"
+    ],
+    [
+      "Data compression",
+      "Fibonacci coding"
+    ],
+    [
+      "Data compression",
+      "Elias gamma coding"
+    ],
+    [
+      "Data compression",
+      "Levenshtein coding"
+    ],
+    [
+      "Data compression",
+      "Dictionary coder"
+    ],
+    [
+      "Data compression",
+      "Byte pair encoding"
+    ],
+    [
+      "Data compression",
+      "LZ77 and LZ78"
+    ],
+    [
+      "Data compression",
+      "842 (compression algorithm)"
+    ],
+    [
+      "Data compression",
+      "Brotli"
+    ],
+    [
+      "Data compression",
+      "Deflate"
+    ],
+    [
+      "Data compression",
+      "LZ4 (compression algorithm)"
+    ],
+    [
+      "Data compression",
+      "LZFSE"
+    ],
+    [
+      "Data compression",
+      "LZJB"
+    ],
+    [
+      "Data compression",
+      "Lempel%E2%80%93Ziv%E2%80%93Markov chain algorithm"
+    ],
+    [
+      "Data compression",
+      "Lempel%E2%80%93Ziv%E2%80%93Oberhumer"
+    ],
+    [
+      "Data compression",
+      "LZRW"
+    ],
+    [
+      "Data compression",
+      "Lempel%E2%80%93Ziv%E2%80%93Stac"
+    ],
+    [
+      "Data compression",
+      "Lempel%E2%80%93Ziv%E2%80%93Storer%E2%80%93Szymanski"
+    ],
+    [
+      "Data compression",
+      "Lempel%E2%80%93Ziv%E2%80%93Welch"
+    ],
+    [
+      "Data compression",
+      "LZWL"
+    ],
+    [
+      "Data compression",
+      "LZX"
+    ],
+    [
+      "Data compression",
+      "Snappy (compression)"
+    ],
+    [
+      "Data compression",
+      "Zstd"
+    ],
+    [
+      "Data compression",
+      "Burrows%E2%80%93Wheeler transform"
+    ],
+    [
+      "Data compression",
+      "Context tree weighting"
+    ],
+    [
+      "Data compression",
+      "Delta encoding"
+    ],
+    [
+      "Data compression",
+      "Incremental encoding"
+    ],
+    [
+      "Data compression",
+      "Dynamic Markov compression"
+    ],
+    [
+      "Data compression",
+      "Differential pulse-code modulation"
+    ],
+    [
+      "Data compression",
+      "Discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "Move-to-front transform"
+    ],
+    [
+      "Data compression",
+      "PAQ"
+    ],
+    [
+      "Data compression",
+      "Prediction by partial matching"
+    ],
+    [
+      "Data compression",
+      "Run-length encoding"
+    ],
+    [
+      "Data compression",
+      "Lossy compression"
+    ],
+    [
+      "Data compression",
+      "Transform coding"
+    ],
+    [
+      "Data compression",
+      "Discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "Discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "Modified discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "Discrete sine transform"
+    ],
+    [
+      "Data compression",
+      "Fast Fourier transform"
+    ],
+    [
+      "Data compression",
+      "Wavelet transform"
+    ],
+    [
+      "Data compression",
+      "Daubechies wavelet"
+    ],
+    [
+      "Data compression",
+      "Discrete wavelet transform"
+    ],
+    [
+      "Data compression",
+      "Set partitioning in hierarchical trees"
+    ],
+    [
+      "Data compression",
+      "Differential pulse-code modulation"
+    ],
+    [
+      "Data compression",
+      "Adaptive differential pulse-code modulation"
+    ],
+    [
+      "Data compression",
+      "Linear predictive coding"
+    ],
+    [
+      "Data compression",
+      "Algebraic code-excited linear prediction"
+    ],
+    [
+      "Data compression",
+      "Code-excited linear prediction"
+    ],
+    [
+      "Data compression",
+      "Log area ratio"
+    ],
+    [
+      "Data compression",
+      "Line spectral pairs"
+    ],
+    [
+      "Data compression",
+      "Warped linear predictive coding"
+    ],
+    [
+      "Data compression",
+      "Motion compensation"
+    ],
+    [
+      "Data compression",
+      "Motion estimation"
+    ],
+    [
+      "Data compression",
+      "Psychoacoustics"
+    ],
+    [
+      "Data compression",
+      "Bit rate"
+    ],
+    [
+      "Data compression",
+      "Average bitrate"
+    ],
+    [
+      "Data compression",
+      "Constant bitrate"
+    ],
+    [
+      "Data compression",
+      "Variable bitrate"
+    ],
+    [
+      "Data compression",
+      "Companding"
+    ],
+    [
+      "Data compression",
+      "Convolution"
+    ],
+    [
+      "Data compression",
+      "Dynamic range"
+    ],
+    [
+      "Data compression",
+      "Latency (audio)"
+    ],
+    [
+      "Data compression",
+      "Nyquist%E2%80%93Shannon sampling theorem"
+    ],
+    [
+      "Data compression",
+      "Sampling (signal processing)"
+    ],
+    [
+      "Data compression",
+      "Sound quality"
+    ],
+    [
+      "Data compression",
+      "Speech coding"
+    ],
+    [
+      "Data compression",
+      "Sub-band coding"
+    ],
+    [
+      "Data compression",
+      "Audio codec"
+    ],
+    [
+      "Data compression",
+      "A-law algorithm"
+    ],
+    [
+      "Data compression",
+      "%CE%9C-law algorithm"
+    ],
+    [
+      "Data compression",
+      "Differential pulse-code modulation"
+    ],
+    [
+      "Data compression",
+      "Adaptive differential pulse-code modulation"
+    ],
+    [
+      "Data compression",
+      "Delta modulation"
+    ],
+    [
+      "Data compression",
+      "Fourier transform"
+    ],
+    [
+      "Data compression",
+      "Fast Fourier transform"
+    ],
+    [
+      "Data compression",
+      "Linear predictive coding"
+    ],
+    [
+      "Data compression",
+      "Algebraic code-excited linear prediction"
+    ],
+    [
+      "Data compression",
+      "Code-excited linear prediction"
+    ],
+    [
+      "Data compression",
+      "Log area ratio"
+    ],
+    [
+      "Data compression",
+      "Line spectral pairs"
+    ],
+    [
+      "Data compression",
+      "Warped linear predictive coding"
+    ],
+    [
+      "Data compression",
+      "Modified discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "Psychoacoustics"
+    ],
+    [
+      "Data compression",
+      "Image compression"
+    ],
+    [
+      "Data compression",
+      "Chroma subsampling"
+    ],
+    [
+      "Data compression",
+      "Coding tree unit"
+    ],
+    [
+      "Data compression",
+      "Color space"
+    ],
+    [
+      "Data compression",
+      "Compression artifact"
+    ],
+    [
+      "Data compression",
+      "Image resolution"
+    ],
+    [
+      "Data compression",
+      "Macroblock"
+    ],
+    [
+      "Data compression",
+      "Pixel"
+    ],
+    [
+      "Data compression",
+      "Peak signal-to-noise ratio"
+    ],
+    [
+      "Data compression",
+      "Quantization (image processing)"
+    ],
+    [
+      "Data compression",
+      "Standard test image"
+    ],
+    [
+      "Data compression",
+      "Chain code"
+    ],
+    [
+      "Data compression",
+      "Discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "Deflate"
+    ],
+    [
+      "Data compression",
+      "Fractal compression"
+    ],
+    [
+      "Data compression",
+      "Pyramid (image processing)"
+    ],
+    [
+      "Data compression",
+      "Run-length encoding"
+    ],
+    [
+      "Data compression",
+      "Wavelet transform"
+    ],
+    [
+      "Data compression",
+      "Daubechies wavelet"
+    ],
+    [
+      "Data compression",
+      "Discrete wavelet transform"
+    ],
+    [
+      "Data compression",
+      "Embedded Zerotrees of Wavelet transforms"
+    ],
+    [
+      "Data compression",
+      "Set partitioning in hierarchical trees"
+    ],
+    [
+      "Data compression",
+      "Bit rate"
+    ],
+    [
+      "Data compression",
+      "Average bitrate"
+    ],
+    [
+      "Data compression",
+      "Constant bitrate"
+    ],
+    [
+      "Data compression",
+      "Variable bitrate"
+    ],
+    [
+      "Data compression",
+      "Display resolution"
+    ],
+    [
+      "Data compression",
+      "Film frame"
+    ],
+    [
+      "Data compression",
+      "Frame rate"
+    ],
+    [
+      "Data compression",
+      "Video compression picture types"
+    ],
+    [
+      "Data compression",
+      "Interlaced video"
+    ],
+    [
+      "Data compression",
+      "Video#Characteristics of video streams"
+    ],
+    [
+      "Data compression",
+      "Video quality"
+    ],
+    [
+      "Data compression",
+      "Video codec"
+    ],
+    [
+      "Data compression",
+      "Discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "Differential pulse-code modulation"
+    ],
+    [
+      "Data compression",
+      "Deblocking filter"
+    ],
+    [
+      "Data compression",
+      "Lapped transform"
+    ],
+    [
+      "Data compression",
+      "Motion compensation"
+    ],
+    [
+      "Data compression",
+      "Motion estimation"
+    ],
+    [
+      "Data compression",
+      "Wavelet transform"
+    ],
+    [
+      "Data compression",
+      "Daubechies wavelet"
+    ],
+    [
+      "Data compression",
+      "Discrete wavelet transform"
+    ],
+    [
+      "Data compression",
+      "Information theory"
+    ],
+    [
+      "Data compression",
+      "Entropy (information theory)"
+    ],
+    [
+      "Data compression",
+      "Grammar-based code"
+    ],
+    [
+      "Data compression",
+      "Re-Pair"
+    ],
+    [
+      "Data compression",
+      "Sequitur algorithm"
+    ],
+    [
+      "Data compression",
+      "Information theory"
+    ],
+    [
+      "Data compression",
+      "Timeline of information theory"
+    ],
+    [
+      "Data compression",
+      "Kolmogorov complexity"
+    ],
+    [
+      "Data compression",
+      "Prefix code"
+    ],
+    [
+      "Data compression",
+      "Quantization (signal processing)"
+    ],
+    [
+      "Data compression",
+      "Rate%E2%80%93distortion theory"
+    ],
+    [
+      "Data compression",
+      "Redundancy (information theory)"
+    ],
+    [
+      "Data compression",
+      "Template:Compression formats"
+    ],
+    [
+      "Data compression",
+      "Template:Compression software"
+    ],
+    [
+      "Data compression",
+      "Codec"
+    ],
+    [
+      "Data compression",
+      "Template:Compression formats"
+    ],
+    [
+      "Data compression",
+      "Template talk:Compression formats"
+    ],
+    [
+      "Data compression",
+      "Multimedia"
+    ],
+    [
+      "Data compression",
+      "Video coding format"
+    ],
+    [
+      "Data compression",
+      "International Organization for Standardization"
+    ],
+    [
+      "Data compression",
+      "International Electrotechnical Commission"
+    ],
+    [
+      "Data compression",
+      "Moving Picture Experts Group"
+    ],
+    [
+      "Data compression",
+      "DV"
+    ],
+    [
+      "Data compression",
+      "Motion JPEG"
+    ],
+    [
+      "Data compression",
+      "Motion JPEG 2000"
+    ],
+    [
+      "Data compression",
+      "MPEG-1"
+    ],
+    [
+      "Data compression",
+      "MPEG-2"
+    ],
+    [
+      "Data compression",
+      "H.262/MPEG-2 Part 2"
+    ],
+    [
+      "Data compression",
+      "MPEG-4"
+    ],
+    [
+      "Data compression",
+      "MPEG-4 Part 2"
+    ],
+    [
+      "Data compression",
+      "MPEG-H"
+    ],
+    [
+      "Data compression",
+      "High Efficiency Video Coding"
+    ],
+    [
+      "Data compression",
+      "Versatile Video Coding"
+    ],
+    [
+      "Data compression",
+      "Essential Video Coding"
+    ],
+    [
+      "Data compression",
+      "LCEVC"
+    ],
+    [
+      "Data compression",
+      "ITU-T"
+    ],
+    [
+      "Data compression",
+      "Video Coding Experts Group"
+    ],
+    [
+      "Data compression",
+      "H.120"
+    ],
+    [
+      "Data compression",
+      "H.261"
+    ],
+    [
+      "Data compression",
+      "H.262/MPEG-2 Part 2"
+    ],
+    [
+      "Data compression",
+      "H.263"
+    ],
+    [
+      "Data compression",
+      "Advanced Video Coding"
+    ],
+    [
+      "Data compression",
+      "High Efficiency Video Coding"
+    ],
+    [
+      "Data compression",
+      "Versatile Video Coding"
+    ],
+    [
+      "Data compression",
+      "Society of Motion Picture and Television Engineers"
+    ],
+    [
+      "Data compression",
+      "VC-1"
+    ],
+    [
+      "Data compression",
+      "Dirac (video compression format)"
+    ],
+    [
+      "Data compression",
+      "Avid DNxHD"
+    ],
+    [
+      "Data compression",
+      "CineForm"
+    ],
+    [
+      "Data compression",
+      "VC-6"
+    ],
+    [
+      "Data compression",
+      "On2 Technologies"
+    ],
+    [
+      "Data compression",
+      "On2 Technologies#TrueMotion S"
+    ],
+    [
+      "Data compression",
+      "VP3"
+    ],
+    [
+      "Data compression",
+      "VP6"
+    ],
+    [
+      "Data compression",
+      "VP8"
+    ],
+    [
+      "Data compression",
+      "VP9"
+    ],
+    [
+      "Data compression",
+      "AV1"
+    ],
+    [
+      "Data compression",
+      "Apple Video"
+    ],
+    [
+      "Data compression",
+      "Audio Video Standard"
+    ],
+    [
+      "Data compression",
+      "Bink Video"
+    ],
+    [
+      "Data compression",
+      "Cinepak"
+    ],
+    [
+      "Data compression",
+      "Daala"
+    ],
+    [
+      "Data compression",
+      "Digital Video Interactive"
+    ],
+    [
+      "Data compression",
+      "FFV1"
+    ],
+    [
+      "Data compression",
+      "Huffyuv"
+    ],
+    [
+      "Data compression",
+      "Indeo"
+    ],
+    [
+      "Data compression",
+      "Lagarith"
+    ],
+    [
+      "Data compression",
+      "Microsoft Video 1"
+    ],
+    [
+      "Data compression",
+      "MSU Lossless Video Codec"
+    ],
+    [
+      "Data compression",
+      "OMS Video"
+    ],
+    [
+      "Data compression",
+      "Pixlet"
+    ],
+    [
+      "Data compression",
+      "Apple ProRes"
+    ],
+    [
+      "Data compression",
+      "QuickTime Animation"
+    ],
+    [
+      "Data compression",
+      "QuickTime Graphics"
+    ],
+    [
+      "Data compression",
+      "RealVideo"
+    ],
+    [
+      "Data compression",
+      "RTVideo"
+    ],
+    [
+      "Data compression",
+      "SheerVideo"
+    ],
+    [
+      "Data compression",
+      "Smacker video"
+    ],
+    [
+      "Data compression",
+      "Sorenson Media"
+    ],
+    [
+      "Data compression",
+      "Theora"
+    ],
+    [
+      "Data compression",
+      "Thor (video codec)"
+    ],
+    [
+      "Data compression",
+      "Windows Media Video"
+    ],
+    [
+      "Data compression",
+      "RatDVD"
+    ],
+    [
+      "Data compression",
+      "YULS"
+    ],
+    [
+      "Data compression",
+      "Audio coding format"
+    ],
+    [
+      "Data compression",
+      "International Organization for Standardization"
+    ],
+    [
+      "Data compression",
+      "International Electrotechnical Commission"
+    ],
+    [
+      "Data compression",
+      "Moving Picture Experts Group"
+    ],
+    [
+      "Data compression",
+      "MPEG-1 Audio Layer II"
+    ],
+    [
+      "Data compression",
+      "MPEG Multichannel"
+    ],
+    [
+      "Data compression",
+      "MPEG-1 Audio Layer I"
+    ],
+    [
+      "Data compression",
+      "MP3"
+    ],
+    [
+      "Data compression",
+      "Advanced Audio Coding"
+    ],
+    [
+      "Data compression",
+      "High-Efficiency Advanced Audio Coding"
+    ],
+    [
+      "Data compression",
+      "AAC-LD"
+    ],
+    [
+      "Data compression",
+      "MPEG Surround"
+    ],
+    [
+      "Data compression",
+      "Audio Lossless Coding"
+    ],
+    [
+      "Data compression",
+      "MPEG-4 SLS"
+    ],
+    [
+      "Data compression",
+      "Super Audio CD#DST"
+    ],
+    [
+      "Data compression",
+      "Harmonic Vector Excitation Coding"
+    ],
+    [
+      "Data compression",
+      "Code-excited linear prediction"
+    ],
+    [
+      "Data compression",
+      "Unified Speech and Audio Coding"
+    ],
+    [
+      "Data compression",
+      "MPEG-H 3D Audio"
+    ],
+    [
+      "Data compression",
+      "ITU-T"
+    ],
+    [
+      "Data compression",
+      "G.711"
+    ],
+    [
+      "Data compression",
+      "A-law algorithm"
+    ],
+    [
+      "Data compression",
+      "%CE%9C-law algorithm"
+    ],
+    [
+      "Data compression",
+      "G.718"
+    ],
+    [
+      "Data compression",
+      "G.719"
+    ],
+    [
+      "Data compression",
+      "G.722"
+    ],
+    [
+      "Data compression",
+      "G.722.1"
+    ],
+    [
+      "Data compression",
+      "Adaptive Multi-Rate Wideband"
+    ],
+    [
+      "Data compression",
+      "G.723"
+    ],
+    [
+      "Data compression",
+      "G.723.1"
+    ],
+    [
+      "Data compression",
+      "G.726"
+    ],
+    [
+      "Data compression",
+      "G.728"
+    ],
+    [
+      "Data compression",
+      "G.729"
+    ],
+    [
+      "Data compression",
+      "G.729.1"
+    ],
+    [
+      "Data compression",
+      "Internet Engineering Task Force"
+    ],
+    [
+      "Data compression",
+      "Opus (audio format)"
+    ],
+    [
+      "Data compression",
+      "Internet Low Bitrate Codec"
+    ],
+    [
+      "Data compression",
+      "Speex"
+    ],
+    [
+      "Data compression",
+      "Vorbis"
+    ],
+    [
+      "Data compression",
+      "3GPP"
+    ],
+    [
+      "Data compression",
+      "Adaptive Multi-Rate audio codec"
+    ],
+    [
+      "Data compression",
+      "Adaptive Multi-Rate Wideband"
+    ],
+    [
+      "Data compression",
+      "Extended Adaptive Multi-Rate %E2%80%93 Wideband"
+    ],
+    [
+      "Data compression",
+      "Enhanced Variable Rate Codec"
+    ],
+    [
+      "Data compression",
+      "Enhanced Variable Rate Codec B"
+    ],
+    [
+      "Data compression",
+      "Enhanced Voice Services"
+    ],
+    [
+      "Data compression",
+      "Half Rate"
+    ],
+    [
+      "Data compression",
+      "Full Rate"
+    ],
+    [
+      "Data compression",
+      "Enhanced full rate"
+    ],
+    [
+      "Data compression",
+      "ETSI"
+    ],
+    [
+      "Data compression",
+      "Dolby Digital"
+    ],
+    [
+      "Data compression",
+      "Dolby AC-4"
+    ],
+    [
+      "Data compression",
+      "Bluetooth Special Interest Group"
+    ],
+    [
+      "Data compression",
+      "SBC (codec)"
+    ],
+    [
+      "Data compression",
+      "LC3 (codec)"
+    ],
+    [
+      "Data compression",
+      "Algebraic code-excited linear prediction"
+    ],
+    [
+      "Data compression",
+      "Asao (codec)"
+    ],
+    [
+      "Data compression",
+      "Audio Video Standard"
+    ],
+    [
+      "Data compression",
+      "CELT"
+    ],
+    [
+      "Data compression",
+      "Codec 2"
+    ],
+    [
+      "Data compression",
+      "Dynamic Resolution Adaptation"
+    ],
+    [
+      "Data compression",
+      "FLAC"
+    ],
+    [
+      "Data compression",
+      "Internet Speech Audio Codec"
+    ],
+    [
+      "Data compression",
+      "Mixed-excitation linear prediction"
+    ],
+    [
+      "Data compression",
+      "Monkey%27s Audio"
+    ],
+    [
+      "Data compression",
+      "MT9"
+    ],
+    [
+      "Data compression",
+      "Musepack"
+    ],
+    [
+      "Data compression",
+      "OptimFROG"
+    ],
+    [
+      "Data compression",
+      "Original Sound Quality"
+    ],
+    [
+      "Data compression",
+      "Qualcomm code-excited linear prediction"
+    ],
+    [
+      "Data compression",
+      "Relaxed code-excited linear prediction"
+    ],
+    [
+      "Data compression",
+      "RealAudio"
+    ],
+    [
+      "Data compression",
+      "RTAudio"
+    ],
+    [
+      "Data compression",
+      "Avid Audio#Sound Designer file formats"
+    ],
+    [
+      "Data compression",
+      "SILK"
+    ],
+    [
+      "Data compression",
+      "Siren (codec)"
+    ],
+    [
+      "Data compression",
+      "Selectable Mode Vocoder"
+    ],
+    [
+      "Data compression",
+      "SVOPC"
+    ],
+    [
+      "Data compression",
+      "TTA (codec)"
+    ],
+    [
+      "Data compression",
+      "TwinVQ"
+    ],
+    [
+      "Data compression",
+      "Variable-Rate Multimode Wideband"
+    ],
+    [
+      "Data compression",
+      "Vector sum excited linear prediction"
+    ],
+    [
+      "Data compression",
+      "WavPack"
+    ],
+    [
+      "Data compression",
+      "Windows Media Audio"
+    ],
+    [
+      "Data compression",
+      "Master Quality Authenticated"
+    ],
+    [
+      "Data compression",
+      "AptX"
+    ],
+    [
+      "Data compression",
+      "AptX#aptX HD"
+    ],
+    [
+      "Data compression",
+      "AptX#aptX Low Latency"
+    ],
+    [
+      "Data compression",
+      "AptX#aptX Adaptive"
+    ],
+    [
+      "Data compression",
+      "LDAC (codec)"
+    ],
+    [
+      "Data compression",
+      "LHDC (codec)"
+    ],
+    [
+      "Data compression",
+      "LHDC (codec)#LLAC"
+    ],
+    [
+      "Data compression",
+      "Image compression"
+    ],
+    [
+      "Data compression",
+      "International Electrotechnical Commission"
+    ],
+    [
+      "Data compression",
+      "International Organization for Standardization"
+    ],
+    [
+      "Data compression",
+      "Internet Engineering Task Force"
+    ],
+    [
+      "Data compression",
+      "World Wide Web Consortium"
+    ],
+    [
+      "Data compression",
+      "ITU-T"
+    ],
+    [
+      "Data compression",
+      "Joint Photographic Experts Group"
+    ],
+    [
+      "Data compression",
+      "Group 4 compression"
+    ],
+    [
+      "Data compression",
+      "GIF"
+    ],
+    [
+      "Data compression",
+      "High Efficiency Image File Format#HEIC: HEVC in HEIF"
+    ],
+    [
+      "Data compression",
+      "High Efficiency Video Coding#Main Still Picture"
+    ],
+    [
+      "Data compression",
+      "JBIG"
+    ],
+    [
+      "Data compression",
+      "JBIG2"
+    ],
+    [
+      "Data compression",
+      "JPEG"
+    ],
+    [
+      "Data compression",
+      "JPEG 2000"
+    ],
+    [
+      "Data compression",
+      "JPEG XL"
+    ],
+    [
+      "Data compression",
+      "JPEG XR"
+    ],
+    [
+      "Data compression",
+      "JPEG XS"
+    ],
+    [
+      "Data compression",
+      "JPEG XT"
+    ],
+    [
+      "Data compression",
+      "TIFF"
+    ],
+    [
+      "Data compression",
+      "TIFF/EP"
+    ],
+    [
+      "Data compression",
+      "APNG"
+    ],
+    [
+      "Data compression",
+      "AV1"
+    ],
+    [
+      "Data compression",
+      "AVIF"
+    ],
+    [
+      "Data compression",
+      "Better Portable Graphics"
+    ],
+    [
+      "Data compression",
+      "DjVu"
+    ],
+    [
+      "Data compression",
+      "OpenEXR"
+    ],
+    [
+      "Data compression",
+      "Free Lossless Image Format"
+    ],
+    [
+      "Data compression",
+      "ICER"
+    ],
+    [
+      "Data compression",
+      "Multiple-image Network Graphics"
+    ],
+    [
+      "Data compression",
+      "Progressive Graphics File"
+    ],
+    [
+      "Data compression",
+      "QOI (image format)"
+    ],
+    [
+      "Data compression",
+      "QuickTime VR"
+    ],
+    [
+      "Data compression",
+      "Wireless Application Protocol Bitmap Format"
+    ],
+    [
+      "Data compression",
+      "WebP"
+    ],
+    [
+      "Data compression",
+      "International Organization for Standardization"
+    ],
+    [
+      "Data compression",
+      "International Electrotechnical Commission"
+    ],
+    [
+      "Data compression",
+      "MPEG elementary stream"
+    ],
+    [
+      "Data compression",
+      "Packetized elementary stream"
+    ],
+    [
+      "Data compression",
+      "MPEG program stream"
+    ],
+    [
+      "Data compression",
+      "MPEG transport stream"
+    ],
+    [
+      "Data compression",
+      "Motion JPEG 2000"
+    ],
+    [
+      "Data compression",
+      "MPEG-21"
+    ],
+    [
+      "Data compression",
+      "MPEG media transport"
+    ],
+    [
+      "Data compression",
+      "ITU-T"
+    ],
+    [
+      "Data compression",
+      "MPEG-2#Systems"
+    ],
+    [
+      "Data compression",
+      "Motion JPEG 2000"
+    ],
+    [
+      "Data compression",
+      "Internet Engineering Task Force"
+    ],
+    [
+      "Data compression",
+      "Real-time Transport Protocol"
+    ],
+    [
+      "Data compression",
+      "Ogg"
+    ],
+    [
+      "Data compression",
+      "Society of Motion Picture and Television Engineers"
+    ],
+    [
+      "Data compression",
+      "General Exchange Format"
+    ],
+    [
+      "Data compression",
+      "Material Exchange Format"
+    ],
+    [
+      "Data compression",
+      "3GP and 3G2"
+    ],
+    [
+      "Data compression",
+      "AMV video format"
+    ],
+    [
+      "Data compression",
+      "Advanced Systems Format"
+    ],
+    [
+      "Data compression",
+      "Audio Interchange File Format"
+    ],
+    [
+      "Data compression",
+      "Audio Video Interleave"
+    ],
+    [
+      "Data compression",
+      "Au file format"
+    ],
+    [
+      "Data compression",
+      "Better Portable Graphics"
+    ],
+    [
+      "Data compression",
+      "Bink Video"
+    ],
+    [
+      "Data compression",
+      "Smacker video"
+    ],
+    [
+      "Data compression",
+      "BMP file format"
+    ],
+    [
+      "Data compression",
+      "DivX#DivX Media Format (DMF)"
+    ],
+    [
+      "Data compression",
+      "Enhanced VOB"
+    ],
+    [
+      "Data compression",
+      "Flash Video"
+    ],
+    [
+      "Data compression",
+      "High Efficiency Image File Format"
+    ],
+    [
+      "Data compression",
+      "Interchange File Format"
+    ],
+    [
+      "Data compression",
+      ".m2ts"
+    ],
+    [
+      "Data compression",
+      "Matroska"
+    ],
+    [
+      "Data compression",
+      "WebM"
+    ],
+    [
+      "Data compression",
+      "QuickTime File Format"
+    ],
+    [
+      "Data compression",
+      "RatDVD"
+    ],
+    [
+      "Data compression",
+      "RealMedia"
+    ],
+    [
+      "Data compression",
+      "Resource Interchange File Format"
+    ],
+    [
+      "Data compression",
+      "WAV"
+    ],
+    [
+      "Data compression",
+      "MOD and TOD"
+    ],
+    [
+      "Data compression",
+      "VOB"
+    ],
+    [
+      "Data compression",
+      "NETVC"
+    ],
+    [
+      "Data compression",
+      "MPEG LA"
+    ],
+    [
+      "Data compression",
+      "Alliance for Open Media"
+    ],
+    [
+      "Data compression",
+      "Arithmetic coding"
+    ],
+    [
+      "Data compression",
+      "Huffman coding"
+    ],
+    [
+      "Data compression",
+      "Modified Huffman coding"
+    ],
+    [
+      "Data compression",
+      "Linear predictive coding"
+    ],
+    [
+      "Data compression",
+      "Algebraic code-excited linear prediction"
+    ],
+    [
+      "Data compression",
+      "Code-excited linear prediction"
+    ],
+    [
+      "Data compression",
+      "Line spectral pairs"
+    ],
+    [
+      "Data compression",
+      "Warped linear predictive coding"
+    ],
+    [
+      "Data compression",
+      "Lossless compression"
+    ],
+    [
+      "Data compression",
+      "Lossy compression"
+    ],
+    [
+      "Data compression",
+      "LZ77 and LZ78"
+    ],
+    [
+      "Data compression",
+      "Lempel%E2%80%93Ziv%E2%80%93Welch"
+    ],
+    [
+      "Data compression",
+      "Pulse-code modulation"
+    ],
+    [
+      "Data compression",
+      "A-law algorithm"
+    ],
+    [
+      "Data compression",
+      "%CE%9C-law algorithm"
+    ],
+    [
+      "Data compression",
+      "Adaptive differential pulse-code modulation"
+    ],
+    [
+      "Data compression",
+      "Differential pulse-code modulation"
+    ],
+    [
+      "Data compression",
+      "Transform coding"
+    ],
+    [
+      "Data compression",
+      "Discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "Fast Fourier transform"
+    ],
+    [
+      "Data compression",
+      "Modified discrete cosine transform"
+    ],
+    [
+      "Data compression",
+      "Wavelet"
+    ],
+    [
+      "Data compression",
+      "Daubechies wavelet"
+    ],
+    [
+      "Data compression",
+      "Discrete wavelet transform"
+    ],
+    [
+      "Data compression",
+      "Comparison of audio coding formats"
+    ],
+    [
+      "Data compression",
+      "Comparison of video codecs"
+    ],
+    [
+      "Data compression",
+      "List of codecs"
+    ],
+    [
+      "Data compression",
+      "Template:Compression methods"
+    ],
+    [
+      "Data compression",
+      "Template:Compression software"
+    ],
+    [
+      "Data compression",
+      "Template:Compression software"
+    ],
+    [
+      "Data compression",
+      "Template talk:Compression software"
+    ],
+    [
+      "Data compression",
+      "Comparison of file archivers"
+    ],
+    [
+      "Data compression",
+      "Comparison of file archivers"
+    ],
+    [
+      "Data compression",
+      "Free software"
+    ],
+    [
+      "Data compression",
+      "7-Zip"
+    ],
+    [
+      "Data compression",
+      "Ark (software)"
+    ],
+    [
+      "Data compression",
+      "Haiku Applications#Expander"
+    ],
+    [
+      "Data compression",
+      "FreeArc"
+    ],
+    [
+      "Data compression",
+      "GNOME Archive Manager"
+    ],
+    [
+      "Data compression",
+      "Info-ZIP"
+    ],
+    [
+      "Data compression",
+      "KGB Archiver"
+    ],
+    [
+      "Data compression",
+      "PAQ"
+    ],
+    [
+      "Data compression",
+      "Pax (command)"
+    ],
+    [
+      "Data compression",
+      "PeaZip"
+    ],
+    [
+      "Data compression",
+      "XAD (software)"
+    ],
+    [
+      "Data compression",
+      "Xarchiver"
+    ],
+    [
+      "Data compression",
+      "Zipeg"
+    ],
+    [
+      "Data compression",
+      "ZPAQ"
+    ],
+    [
+      "Data compression",
+      "Freeware"
+    ],
+    [
+      "Data compression",
+      "Filzip"
+    ],
+    [
+      "Data compression",
+      "LHA (file format)"
+    ],
+    [
+      "Data compression",
+      "StuffIt Expander"
+    ],
+    [
+      "Data compression",
+      "The Unarchiver"
+    ],
+    [
+      "Data compression",
+      "TUGZip"
+    ],
+    [
+      "Data compression",
+      "ZipGenius"
+    ],
+    [
+      "Data compression",
+      "Commercial software"
+    ],
+    [
+      "Data compression",
+      "ARC (file format)"
+    ],
+    [
+      "Data compression",
+      "ALZip"
+    ],
+    [
+      "Data compression",
+      "ARJ"
+    ],
+    [
+      "Data compression",
+      "BetterZip"
+    ],
+    [
+      "Data compression",
+      "MacBinary"
+    ],
+    [
+      "Data compression",
+      "PKZIP"
+    ],
+    [
+      "Data compression",
+      "PowerArchiver"
+    ],
+    [
+      "Data compression",
+      "StuffIt"
+    ],
+    [
+      "Data compression",
+      "WinAce"
+    ],
+    [
+      "Data compression",
+      "WinRAR"
+    ],
+    [
+      "Data compression",
+      "WinZip"
+    ],
+    [
+      "Data compression",
+      "Bzip2"
+    ],
+    [
+      "Data compression",
+      "Gzip"
+    ],
+    [
+      "Data compression",
+      "Lzip"
+    ],
+    [
+      "Data compression",
+      "Lzop"
+    ],
+    [
+      "Data compression",
+      "Rzip"
+    ],
+    [
+      "Data compression",
+      "Snappy (compression)"
+    ],
+    [
+      "Data compression",
+      "XZ Utils"
+    ],
+    [
+      "Data compression",
+      "Executable compression"
+    ],
+    [
+      "Data compression",
+      "UPX"
+    ],
+    [
+      "Data compression",
+      "Comparison of audio coding formats"
+    ],
+    [
+      "Data compression",
+      "Lossy compression"
+    ],
+    [
+      "Data compression",
+      "Fraunhofer FDK AAC"
+    ],
+    [
+      "Data compression",
+      "Nero AAC Codec"
+    ],
+    [
+      "Data compression",
+      "FAAC"
+    ],
+    [
+      "Data compression",
+      "Helix (multimedia project)"
+    ],
+    [
+      "Data compression",
+      "L3enc"
+    ],
+    [
+      "Data compression",
+      "LAME"
+    ],
+    [
+      "Data compression",
+      "TooLAME"
+    ],
+    [
+      "Data compression",
+      "Libavcodec"
+    ],
+    [
+      "Data compression",
+      "CELT"
+    ],
+    [
+      "Data compression",
+      "Opus (audio format)"
+    ],
+    [
+      "Data compression",
+      "Speex"
+    ],
+    [
+      "Data compression",
+      "Musepack"
+    ],
+    [
+      "Data compression",
+      "Vorbis"
+    ],
+    [
+      "Data compression",
+      "Windows Media Encoder"
+    ],
+    [
+      "Data compression",
+      "Lossless compression"
+    ],
+    [
+      "Data compression",
+      "FLAC"
+    ],
+    [
+      "Data compression",
+      "Libavcodec"
+    ],
+    [
+      "Data compression",
+      "Monkey%27s Audio"
+    ],
+    [
+      "Data compression",
+      "Audio Lossless Coding"
+    ],
+    [
+      "Data compression",
+      "OptimFROG"
+    ],
+    [
+      "Data compression",
+      "TTA (codec)"
+    ],
+    [
+      "Data compression",
+      "WavPack"
+    ],
+    [
+      "Data compression",
+      "Comparison of video codecs"
+    ],
+    [
+      "Data compression",
+      "Lossy compression"
+    ],
+    [
+      "Data compression",
+      "MPEG-4 Part 2"
+    ],
+    [
+      "Data compression",
+      "3ivx"
+    ],
+    [
+      "Data compression",
+      "DivX"
+    ],
+    [
+      "Data compression",
+      "Nero Digital"
+    ],
+    [
+      "Data compression",
+      "FFmpeg"
+    ],
+    [
+      "Data compression",
+      "HDX4"
+    ],
+    [
+      "Data compression",
+      "Xvid"
+    ],
+    [
+      "Data compression",
+      "CoreAVC"
+    ],
+    [
+      "Data compression",
+      "Blu-code"
+    ],
+    [
+      "Data compression",
+      "DivX"
+    ],
+    [
+      "Data compression",
+      "FFmpeg"
+    ],
+    [
+      "Data compression",
+      "Nero Digital"
+    ],
+    [
+      "Data compression",
+      "OpenH264"
+    ],
+    [
+      "Data compression",
+      "QuickTime"
+    ],
+    [
+      "Data compression",
+      "X264"
+    ],
+    [
+      "Data compression",
+      "High Efficiency Video Coding"
+    ],
+    [
+      "Data compression",
+      "DivX"
+    ],
+    [
+      "Data compression",
+      "X265"
+    ],
+    [
+      "Data compression",
+      "CineForm"
+    ],
+    [
+      "Data compression",
+      "Cinepak"
+    ],
+    [
+      "Data compression",
+      "Daala"
+    ],
+    [
+      "Data compression",
+      "Avid DNxHD"
+    ],
+    [
+      "Data compression",
+      "Helix (multimedia project)"
+    ],
+    [
+      "Data compression",
+      "Indeo"
+    ],
+    [
+      "Data compression",
+      "Libavcodec"
+    ],
+    [
+      "Data compression",
+      "Dirac (video compression format)"
+    ],
+    [
+      "Data compression",
+      "Smart Bitrate Control"
+    ],
+    [
+      "Data compression",
+      "Theora"
+    ],
+    [
+      "Data compression",
+      "Libvpx"
+    ],
+    [
+      "Data compression",
+      "Windows Media Encoder"
+    ],
+    [
+      "Data compression",
+      "Lossless compression"
+    ],
+    [
+      "Data compression",
+      "FFV1"
+    ],
+    [
+      "Data compression",
+      "Huffyuv"
+    ],
+    [
+      "Data compression",
+      "Lagarith"
+    ],
+    [
+      "Data compression",
+      "MSU Lossless Video Codec"
+    ],
+    [
+      "Data compression",
+      "YULS"
+    ],
+    [
+      "Data compression",
+      "Template:Compression methods"
+    ],
+    [
+      "Data compression",
+      "Template:Compression formats"
+    ],
+    [
+      "Data compression",
+      "Template:Data"
+    ],
+    [
+      "Data compression",
+      "Template talk:Data"
+    ],
+    [
+      "Data compression",
+      "Data augmentation"
+    ],
+    [
+      "Data compression",
+      "Data analysis"
+    ],
+    [
+      "Data compression",
+      "Data archaeology"
+    ],
+    [
+      "Data compression",
+      "Big data"
+    ],
+    [
+      "Data compression",
+      "Data cleansing"
+    ],
+    [
+      "Data compression",
+      "Data collection"
+    ],
+    [
+      "Data compression",
+      "Data corruption"
+    ],
+    [
+      "Data compression",
+      "Data curation"
+    ],
+    [
+      "Data compression",
+      "Data degradation"
+    ],
+    [
+      "Data compression",
+      "Data editing"
+    ],
+    [
+      "Data compression",
+      "Extract, transform, load"
+    ],
+    [
+      "Data compression",
+      "Extract, load, transform"
+    ],
+    [
+      "Data compression",
+      "Data extraction"
+    ],
+    [
+      "Data compression",
+      "Data farming"
+    ],
+    [
+      "Data compression",
+      "Data format management"
+    ],
+    [
+      "Data compression",
+      "Data fusion"
+    ],
+    [
+      "Data compression",
+      "Data integration"
+    ],
+    [
+      "Data compression",
+      "Data integrity"
+    ],
+    [
+      "Data compression",
+      "Data lineage"
+    ],
+    [
+      "Data compression",
+      "Data loss"
+    ],
+    [
+      "Data compression",
+      "Data management"
+    ],
+    [
+      "Data compression",
+      "Data migration"
+    ],
+    [
+      "Data compression",
+      "Data mining"
+    ],
+    [
+      "Data compression",
+      "Data philanthropy"
+    ],
+    [
+      "Data compression",
+      "Data preservation"
+    ],
+    [
+      "Data compression",
+      "Data processing"
+    ],
+    [
+      "Data compression",
+      "Information privacy"
+    ],
+    [
+      "Data compression",
+      "Data publishing"
+    ],
+    [
+      "Data compression",
+      "Data recovery"
+    ],
+    [
+      "Data compression",
+      "Data reduction"
+    ],
+    [
+      "Data compression",
+      "Data retention"
+    ],
+    [
+      "Data compression",
+      "Data quality"
+    ],
+    [
+      "Data compression",
+      "Data science"
+    ],
+    [
+      "Data compression",
+      "Data scraping"
+    ],
+    [
+      "Data compression",
+      "Data scrubbing"
+    ],
+    [
+      "Data compression",
+      "Data security"
+    ],
+    [
+      "Data compression",
+      "Data steward"
+    ],
+    [
+      "Data compression",
+      "Data storage"
+    ],
+    [
+      "Data compression",
+      "Data synchronization"
+    ],
+    [
+      "Data compression",
+      "Data validation"
+    ],
+    [
+      "Data compression",
+      "Data warehouse"
+    ],
+    [
+      "Data compression",
+      "Data wrangling"
+    ],
+    [
+      "Data compression",
+      "Help:Authority control"
+    ],
+    [
+      "Source Code",
+      "Duncan Jones"
+    ],
+    [
+      "Duncan Jones",
+      "Duncan Jones (rugby union)"
+    ],
+    [
+      "Duncan Jones",
+      "Bromley"
+    ],
+    [
+      "Duncan Jones",
+      "London"
+    ],
+    [
+      "Duncan Jones",
+      "College of Wooster"
+    ],
+    [
+      "Duncan Jones",
+      "London Film School"
+    ],
+    [
+      "Duncan Jones",
+      "Moon (2009 film)"
+    ],
+    [
+      "Duncan Jones",
+      "Source Code"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "Angie Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "Moon (2009 film)"
+    ],
+    [
+      "Duncan Jones",
+      "Source Code"
+    ],
+    [
+      "Duncan Jones",
+      "Warcraft (film)"
+    ],
+    [
+      "Duncan Jones",
+      "Mute (2018 film)"
+    ],
+    [
+      "Duncan Jones",
+      "BAFTA Award for Outstanding Debut by a British Writer, Director or Producer"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "Angie Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "Bromley Hospital"
+    ],
+    [
+      "Duncan Jones",
+      "Bromley"
+    ],
+    [
+      "Duncan Jones",
+      "London"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "Angie Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "United States Army"
+    ],
+    [
+      "Duncan Jones",
+      "Cyprus Mines Corporation"
+    ],
+    [
+      "Duncan Jones",
+      "Canadians"
+    ],
+    [
+      "Duncan Jones",
+      "Cyprus"
+    ],
+    [
+      "Duncan Jones",
+      "Polish people"
+    ],
+    [
+      "Duncan Jones",
+      "Kooks (song)"
+    ],
+    [
+      "Duncan Jones",
+      "Hunky Dory"
+    ],
+    [
+      "Duncan Jones",
+      "Vevey"
+    ],
+    [
+      "Duncan Jones",
+      "International School of Lausanne"
+    ],
+    [
+      "Duncan Jones",
+      "Gordonstoun"
+    ],
+    [
+      "Duncan Jones",
+      "Iman (model)"
+    ],
+    [
+      "Duncan Jones",
+      "Spencer Haywood"
+    ],
+    [
+      "Duncan Jones",
+      "College of Wooster"
+    ],
+    [
+      "Duncan Jones",
+      "Vanderbilt University"
+    ],
+    [
+      "Duncan Jones",
+      "London Film School"
+    ],
+    [
+      "Duncan Jones",
+      "Professional wrestling"
+    ],
+    [
+      "Duncan Jones",
+      "Moon (2009 film)"
+    ],
+    [
+      "Duncan Jones",
+      "Tim Pope"
+    ],
+    [
+      "Duncan Jones",
+      "Madison Square Garden"
+    ],
+    [
+      "Duncan Jones",
+      "BowieNet"
+    ],
+    [
+      "Duncan Jones",
+      "Roseland Ballroom"
+    ],
+    [
+      "Duncan Jones",
+      "Republic: The Revolution"
+    ],
+    [
+      "Duncan Jones",
+      "French Connection (clothing)"
+    ],
+    [
+      "Duncan Jones",
+      "Advertising Standards Authority (United Kingdom)"
+    ],
+    [
+      "Duncan Jones",
+      "Moon (2009 film)"
+    ],
+    [
+      "Duncan Jones",
+      "British Independent Film Awards 2009"
+    ],
+    [
+      "Duncan Jones",
+      "British Academy Film Awards"
+    ],
+    [
+      "Duncan Jones",
+      "BAFTA Award for Outstanding Debut by a British Writer, Director or Producer"
+    ],
+    [
+      "Duncan Jones",
+      "Carl Foreman"
+    ],
+    [
+      "Duncan Jones",
+      "Summit Entertainment"
+    ],
+    [
+      "Duncan Jones",
+      "Source Code"
+    ],
+    [
+      "Duncan Jones",
+      "Warcraft (film)"
+    ],
+    [
+      "Duncan Jones",
+      "Warcraft"
+    ],
+    [
+      "Duncan Jones",
+      "Alexander Skarsg%C3%A5rd"
+    ],
+    [
+      "Duncan Jones",
+      "Paul Rudd"
+    ],
+    [
+      "Duncan Jones",
+      "Ridley Scott"
+    ],
+    [
+      "Duncan Jones",
+      "Blade Runner"
+    ],
+    [
+      "Duncan Jones",
+      "Berlin"
+    ],
+    [
+      "Duncan Jones",
+      "Netflix"
+    ],
+    [
+      "Duncan Jones",
+      "Science fiction film"
+    ],
+    [
+      "Duncan Jones",
+      "2000 AD (comics)"
+    ],
+    [
+      "Duncan Jones",
+      "Rogue Trooper"
+    ],
+    [
+      "Duncan Jones",
+      "Entertainment Weekly"
+    ],
+    [
+      "Duncan Jones",
+      "Breast cancer"
+    ],
+    [
+      "Duncan Jones",
+      "Film director"
+    ],
+    [
+      "Duncan Jones",
+      "Screenwriter"
+    ],
+    [
+      "Duncan Jones",
+      "Moon (2009 film)"
+    ],
+    [
+      "Duncan Jones",
+      "Source Code"
+    ],
+    [
+      "Duncan Jones",
+      "Warcraft (film)"
+    ],
+    [
+      "Duncan Jones",
+      "Charles Leavitt"
+    ],
+    [
+      "Duncan Jones",
+      "Mute (2018 film)"
+    ],
+    [
+      "Duncan Jones",
+      "Graphic novel"
+    ],
+    [
+      "Duncan Jones",
+      "BAFTA Award for Outstanding Debut by a British Writer, Director or Producer"
+    ],
+    [
+      "Duncan Jones",
+      "British Independent Film Awards"
+    ],
+    [
+      "Duncan Jones",
+      "Espoo Cin%C3%A9 International Film Festival"
+    ],
+    [
+      "Duncan Jones",
+      "Festival international du film fantastique de G%C3%A9rardmer"
+    ],
+    [
+      "Duncan Jones",
+      "Festival international du film fantastique de G%C3%A9rardmer"
+    ],
+    [
+      "Duncan Jones",
+      "Hugo Award for Best Dramatic Presentation"
+    ],
+    [
+      "Duncan Jones",
+      "London Film Critics Circle Awards 2009"
+    ],
+    [
+      "Duncan Jones",
+      "National Board of Review Awards 2009"
+    ],
+    [
+      "Duncan Jones",
+      "Writers%27 Guild of Great Britain"
+    ],
+    [
+      "Duncan Jones",
+      "British Independent Film Awards 2009"
+    ],
+    [
+      "Duncan Jones",
+      "Chicago Film Critics Association Awards 2009"
+    ],
+    [
+      "Duncan Jones",
+      "Evening Standard British Film Awards"
+    ],
+    [
+      "Duncan Jones",
+      "London Film Critics Circle Awards 2009"
+    ],
+    [
+      "Duncan Jones",
+      "Hugo Award for Best Dramatic Presentation"
+    ],
+    [
+      "Duncan Jones",
+      "Ray Bradbury Award"
+    ],
+    [
+      "Duncan Jones",
+      "Special:BookSources/0-7535-1002-2"
+    ],
+    [
+      "Duncan Jones",
+      "Bromley Hospital"
+    ],
+    [
+      "Duncan Jones",
+      "Twitter"
+    ],
+    [
+      "Duncan Jones",
+      "The New York Times"
+    ],
+    [
+      "Duncan Jones",
+      "Geni.com"
+    ],
+    [
+      "Duncan Jones",
+      "The A.V. Club"
+    ],
+    [
+      "Duncan Jones",
+      "The Guardian"
+    ],
+    [
+      "Duncan Jones",
+      "Deadline Hollywood"
+    ],
+    [
+      "Duncan Jones",
+      "Twitter"
+    ],
+    [
+      "Duncan Jones",
+      "Twitter"
+    ],
+    [
+      "Duncan Jones",
+      "Twitter"
+    ],
+    [
+      "Duncan Jones",
+      "Twitter"
+    ],
+    [
+      "Duncan Jones",
+      "Template:Duncan Jones"
+    ],
+    [
+      "Duncan Jones",
+      "Template talk:Duncan Jones"
+    ],
+    [
+      "Duncan Jones",
+      "Moon (2009 film)"
+    ],
+    [
+      "Duncan Jones",
+      "Source Code"
+    ],
+    [
+      "Duncan Jones",
+      "Warcraft (film)"
+    ],
+    [
+      "Duncan Jones",
+      "Mute (2018 film)"
+    ],
+    [
+      "Duncan Jones",
+      "Template:National Board of Review Award for Best Directorial Debut"
+    ],
+    [
+      "Duncan Jones",
+      "Template talk:National Board of Review Award for Best Directorial Debut"
+    ],
+    [
+      "Duncan Jones",
+      "National Board of Review Award for Best Directorial Debut"
+    ],
+    [
+      "Duncan Jones",
+      "Kasi Lemmons"
+    ],
+    [
+      "Duncan Jones",
+      "Kimberly Peirce"
+    ],
+    [
+      "Duncan Jones",
+      "John Cameron Mitchell"
+    ],
+    [
+      "Duncan Jones",
+      "Rob Marshall"
+    ],
+    [
+      "Duncan Jones",
+      "Vadim Perelman"
+    ],
+    [
+      "Duncan Jones",
+      "Zach Braff"
+    ],
+    [
+      "Duncan Jones",
+      "Julian Fellowes"
+    ],
+    [
+      "Duncan Jones",
+      "Jason Reitman"
+    ],
+    [
+      "Duncan Jones",
+      "Ben Affleck"
+    ],
+    [
+      "Duncan Jones",
+      "Courtney Hunt"
+    ],
+    [
+      "Duncan Jones",
+      "Oren Moverman"
+    ],
+    [
+      "Duncan Jones",
+      "Marc Webb"
+    ],
+    [
+      "Duncan Jones",
+      "Tim Hetherington"
+    ],
+    [
+      "Duncan Jones",
+      "Sebastian Junger"
+    ],
+    [
+      "Duncan Jones",
+      "J. C. Chandor"
+    ],
+    [
+      "Duncan Jones",
+      "Benh Zeitlin"
+    ],
+    [
+      "Duncan Jones",
+      "Ryan Coogler"
+    ],
+    [
+      "Duncan Jones",
+      "Gillian Robespierre"
+    ],
+    [
+      "Duncan Jones",
+      "Jonas Carpignano"
+    ],
+    [
+      "Duncan Jones",
+      "Trey Edward Shults"
+    ],
+    [
+      "Duncan Jones",
+      "Jordan Peele"
+    ],
+    [
+      "Duncan Jones",
+      "Bo Burnham"
+    ],
+    [
+      "Duncan Jones",
+      "Melina Matsoukas"
+    ],
+    [
+      "Duncan Jones",
+      "Channing Godfrey Peoples"
+    ],
+    [
+      "Duncan Jones",
+      "Michael Sarnoski"
+    ],
+    [
+      "Duncan Jones",
+      "Charlotte Wells"
+    ],
+    [
+      "Duncan Jones",
+      "Template:David Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "Template talk:David Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie discography"
+    ],
+    [
+      "Duncan Jones",
+      "List of songs recorded by David Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "List of awards and nominations received by David Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie filmography"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie videography"
+    ],
+    [
+      "Duncan Jones",
+      "List of David Bowie band members"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie (1967 album)"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie (1969 album)"
+    ],
+    [
+      "Duncan Jones",
+      "The Man Who Sold the World (album)"
+    ],
+    [
+      "Duncan Jones",
+      "Hunky Dory"
+    ],
+    [
+      "Duncan Jones",
+      "The Rise and Fall of Ziggy Stardust and the Spiders from Mars"
+    ],
+    [
+      "Duncan Jones",
+      "Aladdin Sane"
+    ],
+    [
+      "Duncan Jones",
+      "Pin Ups"
+    ],
+    [
+      "Duncan Jones",
+      "Diamond Dogs"
+    ],
+    [
+      "Duncan Jones",
+      "Young Americans"
+    ],
+    [
+      "Duncan Jones",
+      "Station to Station"
+    ],
+    [
+      "Duncan Jones",
+      "Low (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "%22Heroes%22 (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Lodger (album)"
+    ],
+    [
+      "Duncan Jones",
+      "Scary Monsters (and Super Creeps)"
+    ],
+    [
+      "Duncan Jones",
+      "Let%27s Dance (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Tonight (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Never Let Me Down"
+    ],
+    [
+      "Duncan Jones",
+      "Black Tie White Noise"
+    ],
+    [
+      "Duncan Jones",
+      "The Buddha of Suburbia (album)"
+    ],
+    [
+      "Duncan Jones",
+      "Outside (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Earthling (album)"
+    ],
+    [
+      "Duncan Jones",
+      "Hours (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Heathen (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Reality (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "The Next Day"
+    ],
+    [
+      "Duncan Jones",
+      "Blackstar (album)"
+    ],
+    [
+      "Duncan Jones",
+      "Toy (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Tin Machine"
+    ],
+    [
+      "Duncan Jones",
+      "Tin Machine (album)"
+    ],
+    [
+      "Duncan Jones",
+      "Tin Machine II"
+    ],
+    [
+      "Duncan Jones",
+      "David Live"
+    ],
+    [
+      "Duncan Jones",
+      "Stage (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Ziggy Stardust: The Motion Picture"
+    ],
+    [
+      "Duncan Jones",
+      "Santa Monica %2772"
+    ],
+    [
+      "Duncan Jones",
+      "LiveAndWell.com"
+    ],
+    [
+      "Duncan Jones",
+      "Glass Spider#Special edition CD 2007"
+    ],
+    [
+      "Duncan Jones",
+      "Live Santa Monica %2772"
+    ],
+    [
+      "Duncan Jones",
+      "VH1 Storytellers (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Bowie at the Beeb"
+    ],
+    [
+      "Duncan Jones",
+      "A Reality Tour (album)"
+    ],
+    [
+      "Duncan Jones",
+      "Live Nassau Coliseum %2776"
+    ],
+    [
+      "Duncan Jones",
+      "Cracked Actor (Live Los Angeles %2774)"
+    ],
+    [
+      "Duncan Jones",
+      "Welcome to the Blackout (Live London %2778)"
+    ],
+    [
+      "Duncan Jones",
+      "Serious Moonlight (1983 film)"
+    ],
+    [
+      "Duncan Jones",
+      "Glastonbury 2000"
+    ],
+    [
+      "Duncan Jones",
+      "ChangesNowBowie"
+    ],
+    [
+      "Duncan Jones",
+      "Outside Tour#Live recordings"
+    ],
+    [
+      "Duncan Jones",
+      "Hours Tour"
+    ],
+    [
+      "Duncan Jones",
+      "I%27m Only Dancing (The Soul Tour 74)"
+    ],
+    [
+      "Duncan Jones",
+      "Outside Tour#Birmingham, England (No Trendy R\u00e9chauff\u00e9 (Live Birmingham 95))"
+    ],
+    [
+      "Duncan Jones",
+      "Earthling Tour#Look at the Moon! (Live Phoenix Festival 97)"
+    ],
+    [
+      "Duncan Jones",
+      "Hours Tour#David Bowie at the Kit Kat Klub (Live New York 99)"
+    ],
+    [
+      "Duncan Jones",
+      "Tin Machine"
+    ],
+    [
+      "Duncan Jones",
+      "Tin Machine Live: Oy Vey, Baby"
+    ],
+    [
+      "Duncan Jones",
+      "Tin Machine Tour#Live recordings"
+    ],
+    [
+      "Duncan Jones",
+      "Christiane F. (soundtrack)"
+    ],
+    [
+      "Duncan Jones",
+      "Love You till Tuesday (soundtrack)"
+    ],
+    [
+      "Duncan Jones",
+      "Labyrinth (1986 soundtrack)"
+    ],
+    [
+      "Duncan Jones",
+      "Lazarus (soundtrack)"
+    ],
+    [
+      "Duncan Jones",
+      "Moonage Daydream (soundtrack)"
+    ],
+    [
+      "Duncan Jones",
+      "Baal (EP)"
+    ],
+    [
+      "Duncan Jones",
+      "BBC Sessions 1969%E2%80%931972 (Sampler)"
+    ],
+    [
+      "Duncan Jones",
+      "Earthling in the City"
+    ],
+    [
+      "Duncan Jones",
+      "Space Oddity"
+    ],
+    [
+      "Duncan Jones",
+      "The Next Day#The Next Day Extra"
+    ],
+    [
+      "Duncan Jones",
+      "No Plan (EP)"
+    ],
+    [
+      "Duncan Jones",
+      "Is It Any Wonder%3F (EP)"
+    ],
+    [
+      "Duncan Jones",
+      "The World of David Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "Images 1966%E2%80%931967"
+    ],
+    [
+      "Duncan Jones",
+      "Changesonebowie"
+    ],
+    [
+      "Duncan Jones",
+      "The Best of Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "Changestwobowie"
+    ],
+    [
+      "Duncan Jones",
+      "Rare (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Golden Years (album)"
+    ],
+    [
+      "Duncan Jones",
+      "Fame and Fashion"
+    ],
+    [
+      "Duncan Jones",
+      "Changesbowie"
+    ],
+    [
+      "Duncan Jones",
+      "Early On (1964%E2%80%931966)"
+    ],
+    [
+      "Duncan Jones",
+      "The Singles Collection (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Rarestonebowie"
+    ],
+    [
+      "Duncan Jones",
+      "The Deram Anthology 1966%E2%80%931968"
+    ],
+    [
+      "Duncan Jones",
+      "The Best of David Bowie 1969/1974"
+    ],
+    [
+      "Duncan Jones",
+      "The Best of David Bowie 1974/1979"
+    ],
+    [
+      "Duncan Jones",
+      "Bowie at the Beeb"
+    ],
+    [
+      "Duncan Jones",
+      "All Saints (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Best of Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "Club Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "The Collection (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "The Best of David Bowie 1980/1987"
+    ],
+    [
+      "Duncan Jones",
+      "ISelect"
+    ],
+    [
+      "Duncan Jones",
+      "Nothing Has Changed"
+    ],
+    [
+      "Duncan Jones",
+      "Legacy (The Very Best of David Bowie)"
+    ],
+    [
+      "Duncan Jones",
+      "Sound %2B Vision (box set)"
+    ],
+    [
+      "Duncan Jones",
+      "The Platinum Collection (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie (box set)"
+    ],
+    [
+      "Duncan Jones",
+      "Five Years (1969%E2%80%931973)"
+    ],
+    [
+      "Duncan Jones",
+      "Who Can I Be Now%3F (1974%E2%80%931976)"
+    ],
+    [
+      "Duncan Jones",
+      "A New Career in a New Town (1977%E2%80%931982)"
+    ],
+    [
+      "Duncan Jones",
+      "Loving the Alien (1983%E2%80%931988)"
+    ],
+    [
+      "Duncan Jones",
+      "Spying Through a Keyhole"
+    ],
+    [
+      "Duncan Jones",
+      "Clareville Grove Demos"
+    ],
+    [
+      "Duncan Jones",
+      "The %27Mercury%27 Demos"
+    ],
+    [
+      "Duncan Jones",
+      "Conversation Piece (box set)"
+    ],
+    [
+      "Duncan Jones",
+      "Brilliant Live Adventures"
+    ],
+    [
+      "Duncan Jones",
+      "Brilliant Adventure (1992%E2%80%932001)"
+    ],
+    [
+      "Duncan Jones",
+      "The 1980 Floor Show"
+    ],
+    [
+      "Duncan Jones",
+      "Ziggy Stardust and the Spiders from Mars (film)"
+    ],
+    [
+      "Duncan Jones",
+      "Serious Moonlight (1983 film)"
+    ],
+    [
+      "Duncan Jones",
+      "Glass Spider"
+    ],
+    [
+      "Duncan Jones",
+      "Tin Machine Live: Oy Vey, Baby"
+    ],
+    [
+      "Duncan Jones",
+      "VH1 Storytellers (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Reality (David Bowie album)#Release"
+    ],
+    [
+      "Duncan Jones",
+      "A Reality Tour (film)"
+    ],
+    [
+      "Duncan Jones",
+      "Glastonbury 2000"
+    ],
+    [
+      "Duncan Jones",
+      "Love You till Tuesday (film)"
+    ],
+    [
+      "Duncan Jones",
+      "Let%27s Dance (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "Jazzin%27 for Blue Jean"
+    ],
+    [
+      "Duncan Jones",
+      "Day-In Day-Out"
+    ],
+    [
+      "Duncan Jones",
+      "Tin Machine (album)#Music video"
+    ],
+    [
+      "Duncan Jones",
+      "Bowie %E2%80%93 The Video Collection"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie: Black Tie White Noise (film)"
+    ],
+    [
+      "Duncan Jones",
+      "Black Tie White Noise"
+    ],
+    [
+      "Duncan Jones",
+      "Best of Bowie#DVD track listing"
+    ],
+    [
+      "Duncan Jones",
+      "Reality (David Bowie album)"
+    ],
+    [
+      "Duncan Jones",
+      "The Best of David Bowie 1980/1987"
+    ],
+    [
+      "Duncan Jones",
+      "The Next Day"
+    ],
+    [
+      "Duncan Jones",
+      "Cracked Actor"
+    ],
+    [
+      "Duncan Jones",
+      "Ricochet (documentary)"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie: Black Tie White Noise (film)"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie: Sound and Vision (documentary)"
+    ],
+    [
+      "Duncan Jones",
+      "Moonage Daydream (film)"
+    ],
+    [
+      "Duncan Jones",
+      "Ziggy Stardust Tour"
+    ],
+    [
+      "Duncan Jones",
+      "Diamond Dogs Tour"
+    ],
+    [
+      "Duncan Jones",
+      "Isolar %E2%80%93 1976 Tour"
+    ],
+    [
+      "Duncan Jones",
+      "Isolar II %E2%80%93 The 1978 World Tour"
+    ],
+    [
+      "Duncan Jones",
+      "Serious Moonlight Tour"
+    ],
+    [
+      "Duncan Jones",
+      "Glass Spider Tour"
+    ],
+    [
+      "Duncan Jones",
+      "Sound%2BVision Tour"
+    ],
+    [
+      "Duncan Jones",
+      "Outside Tour"
+    ],
+    [
+      "Duncan Jones",
+      "Earthling Tour"
+    ],
+    [
+      "Duncan Jones",
+      "Hours Tour"
+    ],
+    [
+      "Duncan Jones",
+      "Mini Tour (David Bowie)"
+    ],
+    [
+      "Duncan Jones",
+      "Heathen Tour"
+    ],
+    [
+      "Duncan Jones",
+      "A Reality Tour"
+    ],
+    [
+      "Duncan Jones",
+      "Tin Machine"
+    ],
+    [
+      "Duncan Jones",
+      "Tin Machine Tour"
+    ],
+    [
+      "Duncan Jones",
+      "It%27s My Life Tour"
+    ],
+    [
+      "Duncan Jones",
+      "Iman (model)"
+    ],
+    [
+      "Duncan Jones",
+      "Angie Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "The Hype (band)"
+    ],
+    [
+      "Duncan Jones",
+      "Junior%27s Eyes"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie BBC Sessions"
+    ],
+    [
+      "Duncan Jones",
+      "Berlin Trilogy"
+    ],
+    [
+      "Duncan Jones",
+      "Major Tom"
+    ],
+    [
+      "Duncan Jones",
+      "Arnold Corns"
+    ],
+    [
+      "Duncan Jones",
+      "Ziggy Stardust (character)"
+    ],
+    [
+      "Duncan Jones",
+      "The Spiders from Mars"
+    ],
+    [
+      "Duncan Jones",
+      "Ava Cherry"
+    ],
+    [
+      "Duncan Jones",
+      "The Thin White Duke"
+    ],
+    [
+      "Duncan Jones",
+      "Jareth"
+    ],
+    [
+      "Duncan Jones",
+      "Phillip Jeffries"
+    ],
+    [
+      "Duncan Jones",
+      "The Nomad Soul"
+    ],
+    [
+      "Duncan Jones",
+      "Symphony No. 1 (Glass)"
+    ],
+    [
+      "Duncan Jones",
+      "Symphony No. 4 (Glass)"
+    ],
+    [
+      "Duncan Jones",
+      "Symphony No. 12 (Glass)"
+    ],
+    [
+      "Duncan Jones",
+      "Bowie (Flight of the Conchords)"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie Narrates Prokofiev%27s Peter and the Wolf"
+    ],
+    [
+      "Duncan Jones",
+      "We Were So Turned On: A Tribute to David Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "The Life Aquatic Studio Sessions"
+    ],
+    [
+      "Duncan Jones",
+      "Heteropoda davidbowie"
+    ],
+    [
+      "Duncan Jones",
+      "342843 Davidbowie"
+    ],
+    [
+      "Duncan Jones",
+      "Lazarus (musical)"
+    ],
+    [
+      "Duncan Jones",
+      "Stardust (2020 film)"
+    ],
+    [
+      "Duncan Jones",
+      "Death of David Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie%27s art collection"
+    ],
+    [
+      "Duncan Jones",
+      "David Bowie Is"
+    ],
+    [
+      "Duncan Jones",
+      "Statue of David Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "Earthling Tour#Tao Jones Index"
+    ],
+    [
+      "Duncan Jones",
+      "BowieNet"
+    ],
+    [
+      "Duncan Jones",
+      "Category:David Bowie"
+    ],
+    [
+      "Duncan Jones",
+      "Help:Authority control"
+    ],
+    [
+      "Source Code",
+      "Ben Ripley"
+    ],
+    [
+      "Ben Ripley",
+      "Lawrenceville, New Jersey"
+    ],
+    [
+      "Ben Ripley",
+      "Screenwriter"
+    ],
+    [
+      "Ben Ripley",
+      "Source Code"
+    ],
+    [
+      "Ben Ripley",
+      "Science fiction film"
+    ],
+    [
+      "Ben Ripley",
+      "Source Code"
+    ],
+    [
+      "Ben Ripley",
+      "Duncan Jones"
+    ],
+    [
+      "Ben Ripley",
+      "Stanford University"
+    ],
+    [
+      "Ben Ripley",
+      "University of Southern California"
+    ],
+    [
+      "Ben Ripley",
+      "Spec script"
+    ],
+    [
+      "Ben Ripley",
+      "Writers Guild of America"
+    ],
+    [
+      "Ben Ripley",
+      "Species III"
+    ],
+    [
+      "Ben Ripley",
+      "Species %E2%80%93 The Awakening"
+    ],
+    [
+      "Ben Ripley",
+      "The Watch (2008 film)"
+    ],
+    [
+      "Ben Ripley",
+      "Source Code"
+    ],
+    [
+      "Ben Ripley",
+      "Boychoir (film)"
+    ],
+    [
+      "Ben Ripley",
+      "Flatliners (2017 film)"
+    ],
+    [
+      "Ben Ripley",
+      "Wikipedia:Link rot"
+    ],
+    [
+      "Ben Ripley",
+      "Help:Authority control"
+    ],
+    [
+      "Ben Ripley",
+      "Wikipedia:Stub"
+    ],
+    [
+      "Ben Ripley",
+      "Template:US-screen-writer-stub"
+    ],
+    [
+      "Ben Ripley",
+      "Template talk:US-screen-writer-stub"
+    ],
+    [
+      "Ben Ripley",
+      "Special:EditPage/Template:US-screen-writer-stub"
+    ],
+    [
+      "Source Code",
+      "Philippe Rousselet"
+    ],
+    [
+      "Philippe Rousselet",
+      "Philippe Rousselot"
+    ],
+    [
+      "Philippe Rousselet",
+      "Neuilly-sur-Seine"
+    ],
+    [
+      "Philippe Rousselet",
+      "France"
+    ],
+    [
+      "Philippe Rousselet",
+      "Andr%C3%A9 Rousselet"
+    ],
+    [
+      "Philippe Rousselet",
+      "Film producer"
+    ],
+    [
+      "Philippe Rousselet",
+      "Academy Award for Best Picture"
+    ],
+    [
+      "Philippe Rousselet",
+      "CODA (2021 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "La Famille B%C3%A9lier"
+    ],
+    [
+      "Philippe Rousselet",
+      "Marie from the Bay of Angels"
+    ],
+    [
+      "Philippe Rousselet",
+      "Serial Lover"
+    ],
+    [
+      "Philippe Rousselet",
+      "Lord of War"
+    ],
+    [
+      "Philippe Rousselet",
+      "The Key (2007 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "The Women on the 6th Floor"
+    ],
+    [
+      "Philippe Rousselet",
+      "Source Code"
+    ],
+    [
+      "Philippe Rousselet",
+      "Larry Crowne"
+    ],
+    [
+      "Philippe Rousselet",
+      "Paris Manhattan"
+    ],
+    [
+      "Philippe Rousselet",
+      "Haute Cuisine (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "La Famille B%C3%A9lier"
+    ],
+    [
+      "Philippe Rousselet",
+      "Dad in Training"
+    ],
+    [
+      "Philippe Rousselet",
+      "Bastille Day (2016 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Radin!"
+    ],
+    [
+      "Philippe Rousselet",
+      "Two Is a Family"
+    ],
+    [
+      "Philippe Rousselet",
+      "What Happened to Monday"
+    ],
+    [
+      "Philippe Rousselet",
+      "Small Country: An African Childhood"
+    ],
+    [
+      "Philippe Rousselet",
+      "CODA (2021 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Rotten Tomatoes"
+    ],
+    [
+      "Philippe Rousselet",
+      "Deadline Hollywood"
+    ],
+    [
+      "Philippe Rousselet",
+      "Screen International"
+    ],
+    [
+      "Philippe Rousselet",
+      "Deadline Hollywood"
+    ],
+    [
+      "Philippe Rousselet",
+      "Academy of Motion Picture Arts and Sciences"
+    ],
+    [
+      "Philippe Rousselet",
+      "The Hollywood Reporter"
+    ],
+    [
+      "Philippe Rousselet",
+      "AllMovie"
+    ],
+    [
+      "Philippe Rousselet",
+      "Template:Academy Award Best Picture Producers"
+    ],
+    [
+      "Philippe Rousselet",
+      "Template talk:Academy Award Best Picture Producers"
+    ],
+    [
+      "Philippe Rousselet",
+      "Special:EditPage/Template:Academy Award Best Picture Producers"
+    ],
+    [
+      "Philippe Rousselet",
+      "Academy Award for Best Picture"
+    ],
+    [
+      "Philippe Rousselet",
+      "Wings (1927 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Famous Players%E2%80%93Lasky"
+    ],
+    [
+      "Philippe Rousselet",
+      "The Broadway Melody"
+    ],
+    [
+      "Philippe Rousselet",
+      "Metro-Goldwyn-Mayer"
+    ],
+    [
+      "Philippe Rousselet",
+      "All Quiet on the Western Front (1930 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Universal Pictures"
+    ],
+    [
+      "Philippe Rousselet",
+      "Cimarron (1931 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "RKO Pictures"
+    ],
+    [
+      "Philippe Rousselet",
+      "Grand Hotel (1932 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Metro-Goldwyn-Mayer"
+    ],
+    [
+      "Philippe Rousselet",
+      "Cavalcade (1933 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Fox Film"
+    ],
+    [
+      "Philippe Rousselet",
+      "It Happened One Night"
+    ],
+    [
+      "Philippe Rousselet",
+      "Columbia Pictures"
+    ],
+    [
+      "Philippe Rousselet",
+      "Mutiny on the Bounty (1935 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Metro-Goldwyn-Mayer"
+    ],
+    [
+      "Philippe Rousselet",
+      "The Great Ziegfeld"
+    ],
+    [
+      "Philippe Rousselet",
+      "Metro-Goldwyn-Mayer"
+    ],
+    [
+      "Philippe Rousselet",
+      "The Life of Emile Zola"
+    ],
+    [
+      "Philippe Rousselet",
+      "Warner Bros."
+    ],
+    [
+      "Philippe Rousselet",
+      "You Can%27t Take It with You (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Columbia Pictures"
+    ],
+    [
+      "Philippe Rousselet",
+      "Gone with the Wind (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Selznick International Pictures"
+    ],
+    [
+      "Philippe Rousselet",
+      "Rebecca (1940 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Selznick International Pictures"
+    ],
+    [
+      "Philippe Rousselet",
+      "How Green Was My Valley (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "20th Century Studios"
+    ],
+    [
+      "Philippe Rousselet",
+      "Mrs. Miniver"
+    ],
+    [
+      "Philippe Rousselet",
+      "Metro-Goldwyn-Mayer"
+    ],
+    [
+      "Philippe Rousselet",
+      "Casablanca (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Warner Bros."
+    ],
+    [
+      "Philippe Rousselet",
+      "Going My Way"
+    ],
+    [
+      "Philippe Rousselet",
+      "Paramount Pictures"
+    ],
+    [
+      "Philippe Rousselet",
+      "Paramount Pictures"
+    ],
+    [
+      "Philippe Rousselet",
+      "The Best Years of Our Lives"
+    ],
+    [
+      "Philippe Rousselet",
+      "Samuel Goldwyn Productions"
+    ],
+    [
+      "Philippe Rousselet",
+      "Gentleman%27s Agreement"
+    ],
+    [
+      "Philippe Rousselet",
+      "20th Century Studios"
+    ],
+    [
+      "Philippe Rousselet",
+      "Hamlet (1948 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "The Rank Organisation"
+    ],
+    [
+      "Philippe Rousselet",
+      "All the King%27s Men (1949 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Columbia Pictures"
+    ],
+    [
+      "Philippe Rousselet",
+      "All About Eve"
+    ],
+    [
+      "Philippe Rousselet",
+      "20th Century Studios"
+    ],
+    [
+      "Philippe Rousselet",
+      "An American in Paris (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Arthur Freed"
+    ],
+    [
+      "Philippe Rousselet",
+      "The Greatest Show on Earth (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Cecil B. DeMille"
+    ],
+    [
+      "Philippe Rousselet",
+      "From Here to Eternity"
+    ],
+    [
+      "Philippe Rousselet",
+      "Buddy Adler"
+    ],
+    [
+      "Philippe Rousselet",
+      "On the Waterfront"
+    ],
+    [
+      "Philippe Rousselet",
+      "Sam Spiegel"
+    ],
+    [
+      "Philippe Rousselet",
+      "Marty (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Harold Hecht"
+    ],
+    [
+      "Philippe Rousselet",
+      "Around the World in 80 Days (1956 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Mike Todd"
+    ],
+    [
+      "Philippe Rousselet",
+      "The Bridge on the River Kwai"
+    ],
+    [
+      "Philippe Rousselet",
+      "Sam Spiegel"
+    ],
+    [
+      "Philippe Rousselet",
+      "Gigi (1958 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Arthur Freed"
+    ],
+    [
+      "Philippe Rousselet",
+      "Ben-Hur (1959 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Sam Zimbalist"
+    ],
+    [
+      "Philippe Rousselet",
+      "The Apartment"
+    ],
+    [
+      "Philippe Rousselet",
+      "Billy Wilder"
+    ],
+    [
+      "Philippe Rousselet",
+      "West Side Story (1961 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Robert Wise"
+    ],
+    [
+      "Philippe Rousselet",
+      "Lawrence of Arabia (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Sam Spiegel"
+    ],
+    [
+      "Philippe Rousselet",
+      "Tom Jones (1963 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Tony Richardson"
+    ],
+    [
+      "Philippe Rousselet",
+      "My Fair Lady (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Jack L. Warner"
+    ],
+    [
+      "Philippe Rousselet",
+      "The Sound of Music (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Robert Wise"
+    ],
+    [
+      "Philippe Rousselet",
+      "A Man for All Seasons (1966 film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Fred Zinnemann"
+    ],
+    [
+      "Philippe Rousselet",
+      "In the Heat of the Night (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Walter Mirisch"
+    ],
+    [
+      "Philippe Rousselet",
+      "Oliver! (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "John and James Woolf"
+    ],
+    [
+      "Philippe Rousselet",
+      "Midnight Cowboy"
+    ],
+    [
+      "Philippe Rousselet",
+      "Jerome Hellman"
+    ],
+    [
+      "Philippe Rousselet",
+      "Patton (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Frank McCarthy (producer)"
+    ],
+    [
+      "Philippe Rousselet",
+      "The French Connection (film)"
+    ],
+    [
+      "Philippe Rousselet",
+      "Philip D%27Antoni"
+    ],
+    [
+      "Philippe Rousselet",
+      "The Godfather"
+    ],
+    [
+      "Philippe Rousselet",
+      "Albert S. Ruddy"
+    ]
+  ]
+}
