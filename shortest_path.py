@@ -7,19 +7,24 @@ def parse_arguments() -> dict :
         description="Find shortest way from article_1" + \
             " to article_2 if they are present in JSON"
     )
-    parser.add_argument('-f', '--from', default="Harry Potter", \
+    parser.add_argument('-f', '--from', default="Programming_Language", \
         help='Starting Wikipedia page')
-    parser.add_argument('--to', default="Harry Potter", \
+    parser.add_argument('--to', default="PAQ", \
         help='End point to search')
     parser.add_argument('-v', help='Print the full path', action='store_true')
     parser.add_argument('--non-directed', \
         help='Ignore the direction of paths', action='store_true')
+    print(dict(parser.parse_args()._get_kwargs()))
     return dict(parser.parse_args()._get_kwargs())
 
 def recurs(path, database, is_directed, p_to, lst_paths):
     filtered_connections = list(
         filter(
-                lambda x: ((x[0] == path[-1] and x[1] not in path) if (is_directed is None or is_directed == False) else ((x[0] == path[-1] and x[1] not in path) or (x[1] == path[-1] and x[0] not in path))), database['edges']
+                lambda x: (
+                    (x[0] == path[-1] and x[1] not in path) 
+                    if (is_directed is None or is_directed == False) 
+                    else ((x[0] == path[-1] and x[1] not in path) or (x[1] == path[-1] and x[0] not in path))),
+                    database['edges']
         )
     )
     if len(path) < 1000:
@@ -61,18 +66,10 @@ def find_shortest_way(arguments: dict) -> None:
             database = json.load(f)
             lst_paths = []
             if args['from'] in database['vertices'] and args['to'] in database['vertices']:
-                if args['from'] == args['to']:
-                    lst_paths += [[args['to']]]
-                elif args['non_directed'] is None:
-                    find_way(database, args['from'], args['to'], lst_paths=lst_paths)
-                else:
-                    find_way(database, args['from'], args['to'], True, lst_paths)
+                find_way(database, args['from'], args['to'], args['non_directed'], lst_paths)
                 if arguments['v'] is not None:
                     print_shortest(lst_paths)
-                if len(lst_paths) > 0:
-                    print(min(map(lambda x: len(x), lst_paths)))
-                else:
-                    print(0)
+                print(min(map(lambda x: len(x), lst_paths)) if len(lst_paths) > 0 else 0)
             else:
                 print("There is no start or end point (according to database data)")
     except:
