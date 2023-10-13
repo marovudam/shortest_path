@@ -14,7 +14,6 @@ def parse_arguments() -> dict :
     parser.add_argument('-v', help='Print the full path', action='store_true')
     parser.add_argument('--non-directed', \
         help='Ignore the direction of paths', action='store_true')
-    print(dict(parser.parse_args()._get_kwargs()))
     return dict(parser.parse_args()._get_kwargs())
 
 def recurs(path, database, is_directed, p_to, lst_paths):
@@ -67,7 +66,7 @@ def find_shortest_way(arguments: dict) -> None:
             lst_paths = []
             if args['from'] in database['vertices'] and args['to'] in database['vertices']:
                 find_way(database, args['from'], args['to'], args['non_directed'], lst_paths)
-                if arguments['v'] is not None:
+                if arguments['v']:
                     print_shortest(lst_paths)
                 print(min(map(lambda x: len(x), lst_paths)) if len(lst_paths) > 0 else 0)
             else:
