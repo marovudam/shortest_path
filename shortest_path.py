@@ -59,7 +59,7 @@ def print_shortest(lst_paths) -> None:
 
 def find_shortest_way(arguments: dict) -> None:
     # os.environ['GRAPH_FILE'] = "filepath"
-    os.environ['GRAPH_FILE'] = "wiki.json"
+    os.environ['GRAPH_FILE'] = "graph.json"
     try:
         with open(os.environ['GRAPH_FILE'], "r") as f:
             database = json.load(f)
