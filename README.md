@@ -1,5 +1,7 @@
 # shortest_path
 
+_There is a [TODO](TODO.md) to this project_
+
 How to find a shortest path in graph?
 
 This is a part of the group project implemented within 24 hours on Python for Beginners Intensive Course. That specific part took me around 4 hours. The program ended up working pretty slow, some fixing is planned.
@@ -11,7 +13,7 @@ Graph is parsed from JSON file with a specific format. File location is specifie
 Script options:
 
 + `-h, --help` Show help message, list of options and exit
-+ `-f FROM, --from FROM` Starting Wikipedia page
++ `-f FROM, --from FROM` Starting node
 + `--to TO`               End point to search
 + `-v`                    Print the full path
 + `--non-directed`        Ignore the direction of paths

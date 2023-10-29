@@ -7,7 +7,7 @@ def parse_arguments() -> dict :
         description="Find shortest way from vertice_1" + \
             " to vertice_2 if they are present in JSON"
     )
-    parser.add_argument('-f', '--from', default="Programming_Language", \
+    parser.add_argument('-f', '--from', default="Programming Language", \
         help='Starting Wikipedia page')
     parser.add_argument('--to', default="PAQ", \
         help='End point to search')
